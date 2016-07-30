@@ -8,13 +8,14 @@
 
 |       [聊天室][chat-room]       |    [hosts 格式检测][travis-status]    |  [镜像hosts][mirror_of_hosts]  |
 | :----------------------------: | :-----------------------------------: |  :---------------------------: |
-|  [![chat-metadata]][chat-room] |  [![travis-metadata]][travis-status]  |   [![coding.net]][coding.net]  |
+|  [![chat-metadata]][chat-room] |  [![travis-metadata]][travis-status]  |   [![coding.net]][coding-link]  |
 
 [chat-metadata]: https://badges.gitter.im/racaljk/hosts.svg "Join the chat at https://gitter.im/racaljk/hosts"
 [chat-room]: https://gitter.im/racaljk/hosts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge "Gitter chat room"
 [travis-metadata]: https://travis-ci.org/racaljk/hosts.svg "Travis CI Metadata"
 [travis-status]: https://travis-ci.org/racaljk/hosts "Travis CI Status"
-[coding.net]: http://www.easyicon.net/api/resizeApi.php?id=1168430&size=48
+[coding.net]: http://i.imgur.com/JDpN8Bd.png
+[coding-link]: https://coding.net/u/scaffrey/p/hosts/git "Coding"
 [mirror_of_hosts]: https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts
 
 ## 更新 hosts
@@ -60,4 +61,5 @@
 ![img-source-from-https://github.com/docker/dockercraft](https://github.com/docker/dockercraft/raw/master/docs/img/contribute.png?raw=true)
 
 [github-hosts]: https://raw.githubusercontent.com/racaljk/hosts/master/hosts "hosts on Github"
-[coding-hosts]: https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts "hosts on Coding"
+
+<base target="_blank">
