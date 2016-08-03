@@ -6,6 +6,8 @@
 **使用本项目之前，请先阅读此 [README](README.md) 及下方的许可协议**
 
 
+**如果在使用过程中遇到问题 如无法连接xxx等 请参阅: [常见问题解答](https://github.com/racaljk/hosts/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94)**
+
 |       [聊天室][chat-room]       |    [hosts 格式检测][travis-status]    |  [镜像hosts][mirror_of_hosts]  |
 | :----------------------------: | :-----------------------------------: |  :---------------------------: |
 |  [![chat-metadata]][chat-room] |  [![travis-metadata]][travis-status]  |   [![coding.net]][coding-link]  |
