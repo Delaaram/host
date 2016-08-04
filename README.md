@@ -5,12 +5,11 @@
 
 **使用本项目之前，请先阅读此 [README](README.md) 及下方的许可协议**
 
+**请务必注意,如果正确修改hosts后还是无法使用Google,在求助前请首先尝试通过https进行访问，如[https://www.google.com/](https://www.google.com/)**
 
-**如果在使用过程中遇到问题 如无法连接xxx等 请参阅: [常见问题解答](https://github.com/racaljk/hosts/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94)**
-
-|       [聊天室][chat-room]       |    [hosts 格式检测][travis-status]    |  [镜像hosts][mirror_of_hosts]  |
-| :----------------------------: | :-----------------------------------: |  :---------------------------: |
-|  [![chat-metadata]][chat-room] |  [![travis-metadata]][travis-status]  |   [![coding.net]][coding-link]  |
+|       [聊天室][chat-room]       |    [hosts 格式检测][travis-status]    |  [镜像hosts][mirror_of_hosts]  |  [常见问题解答][faq]  |
+| :----------------------------: | :-----------------------------------: |  :---------------------------: |  :-----------------: |
+|  [![chat-metadata]][chat-room] |  [![travis-metadata]][travis-status]  |   [![coding.net]][coding-link]  |  [![faq_icon]][faq] | 
 
 [chat-metadata]: https://badges.gitter.im/racaljk/hosts.svg "Join the chat at https://gitter.im/racaljk/hosts"
 [chat-room]: https://gitter.im/racaljk/hosts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge "Gitter chat room"
@@ -19,6 +18,8 @@
 [coding.net]: https://i.imgur.com/JDpN8Bd.png
 [coding-link]: https://coding.net/u/scaffrey/p/hosts/git "Coding"
 [mirror_of_hosts]: https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts
+[faq_icon]: http://www.easyicon.net/api/resizeApi.php?id=1190784&size=64
+[faq]: https://github.com/racaljk/hosts/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94
 
 ## 如何更新 hosts？
 **推荐**使用项目内 [Host Tools](tools) 来**自动地 备份/更新** hosts。
