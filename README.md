@@ -1,7 +1,7 @@
 [![doodle]][doodle-story]
 
-[doodle]: https://i.imgur.com/Vui3K9P.jpg "undefined"
-[doodle-story]: http://baike.baidu.com/link?url=Hoj02JsYhwUYVDaSaHSDazhfYjoqBmlzE_-K279sL3jQ3b7JQPVQi1wWX_s7tn5Vi0MuLX9oazEqpUbAGiIijiXHN1EmSXv-BMoh99MPD3a
+[doodle]: http://p2.cri.cn/M00/65/09/CqgNOleXGt-AcXnFAAAAAAAAAAA942.980x250.jpg "undefined"
+[doodle-story]: http://2016.cctv.com/
 
 **使用本项目之前，请先阅读此 [README](README.md) 及下方的许可协议**
 
