@@ -40,6 +40,9 @@ fe80::1%lo0	localhost
 
 # Archive Start
 207.241.224.22	archive.org
+207.241.224.22	www.archive.org
+207.241.224.22	ia802704.us.archive.org
+207.241.224.22	analytics.archive.org
 207.241.226.190	web.archive.org
 # Archive End
 
