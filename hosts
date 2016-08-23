@@ -424,8 +424,6 @@ fe80::1%lo0	localhost
 220.255.2.153	contributor.google.com
 220.255.2.153	desktop.google.com
 220.255.2.153	desktop2.google.com
-220.255.2.153	dl.google.com
-220.255.2.153	dl.l.google.com
 220.255.2.153	encrypted.google.com
 220.255.2.153	encrypted-tbn0.google.com
 220.255.2.153	encrypted-tbn1.google.com
@@ -680,6 +678,8 @@ fe80::1%lo0	localhost
 # 74.125.248.72	src.chromium.org
 # 74.125.248.73	git.chromium.org
 # 220.255.2.153	codereview.chromium.org
+#220.255.2.153	dl.google.com
+#220.255.2.153	dl.l.google.com
 220.255.2.153	betaspike.appspot.com
 220.255.2.153	hstspreload.appspot.com
 220.255.2.153	chrome-devtools-frontend.appspot.com
