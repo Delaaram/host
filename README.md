@@ -1,7 +1,7 @@
 [![doodle]][doodle-story]
 
-[doodle]: http://p2.cri.cn/M00/65/09/CqgNOleXGt-AcXnFAAAAAAAAAAA942.980x250.jpg "undefined"
-[doodle-story]: http://2016.cctv.com/
+[doodle]: http://www.g20.org/images/logo.png "undefined"
+[doodle-story]: http://www.g20.org/
 
 **使用本项目之前，请先阅读此 [README](README.md) 及下方的许可协议**
 

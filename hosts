@@ -3888,4 +3888,9 @@ fe80::1%lo0	localhost
 46.17.101.80	download.apkpure.com
 # apkpure End
 
+#nytimes for mobile Start
+170.149.168.162 nytimes.com
+170.149.168.162 www.nytimes.com
+#nytimes for mobile End
+
 # Modified hosts end
