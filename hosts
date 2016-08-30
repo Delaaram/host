@@ -3889,8 +3889,8 @@ fe80::1%lo0	localhost
 # apkpure End
 
 #nytimes for mobile Start
-170.149.168.162 nytimes.com
-170.149.168.162 www.nytimes.com
+170.149.168.162  nytimes.com
+170.149.168.162  www.nytimes.com
 #nytimes for mobile End
 
 # Modified hosts end
