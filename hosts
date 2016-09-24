@@ -3935,8 +3935,8 @@ fe80::1%lo0	localhost
 
 #nytimes for mobile Start
 170.149.159.135	nytimes.com
-52.84.219.212 cn.nytimes.com
-52.84.219.212 m.cn.nytimes.com
+52.84.219.212	cn.nytimes.com
+52.84.219.212	m.cn.nytimes.com
 184.84.127.110	www.nytimes.com
 184.84.127.110	graphics8.nytimes.com
 184.84.127.110	json8.nytimes.com
