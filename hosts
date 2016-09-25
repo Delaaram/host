@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2016, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2016-09-23
+# Last updated: 2016-09-25
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3934,8 +3934,29 @@ fe80::1%lo0	localhost
 # apkpure End
 
 #nytimes for mobile Start
-170.149.168.162	nytimes.com
-170.149.168.162	www.nytimes.com
+170.149.159.135	nytimes.com
+52.84.219.212	cn.nytimes.com
+52.84.219.212	m.cn.nytimes.com
+184.84.127.110	www.nytimes.com
+184.84.127.110	graphics8.nytimes.com
+184.84.127.110	json8.nytimes.com
+184.84.127.110	typeface.nytimes.com
+184.84.127.110	typeface.nyt.com
+184.84.127.110	a1.nyt.com
+184.84.127.110	s1.nyt.com
+184.84.127.110	i1.nyt.com
+184.84.127.110	static01.nyt.com
+184.84.127.110	static02.nyt.com
+184.84.127.110	static03.nyt.com
+184.84.127.110	static04.nyt.com
+184.84.127.110	static05.nyt.com
+184.84.127.110	static06.nyt.com
+184.84.127.110	static07.nyt.com
+184.84.127.110	static08.nyt.com
+184.84.127.110	static09.nyt.com
+184.84.127.110	js.nyt.com
+184.84.127.110	css.nyt.com
+184.84.127.110	int.nyt.com
 #nytimes for mobile End
 
 # telegram start
