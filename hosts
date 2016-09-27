@@ -3712,7 +3712,7 @@ fe80::1%lo0	localhost
 # Wikipedia Start
 198.35.26.96	zh.wikipedia.org
 198.35.26.96	zh.m.wikipedia.org
-91.198.174.192	en.wikipedia.org
+# 91.198.174.192	en.wikipedia.org
 # Wikipedia End
 
 # WordPress Start
