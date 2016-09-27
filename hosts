@@ -948,9 +948,6 @@ fe80::1%lo0	localhost
 220.255.2.153	translate.google.com.hk
 220.255.2.153	translate.google.com.tw
 220.255.2.153	trends.google.com
-220.255.2.153	google-analytics.com
-220.255.2.153	www.google-analytics.com
-220.255.2.153	ssl.google-analytics.com
 220.255.2.153	0.gvt0.com
 220.255.2.153	1.gvt0.com
 220.255.2.153	2.gvt0.com
@@ -1237,7 +1234,6 @@ fe80::1%lo0	localhost
 220.255.2.153	spreadsheets.l.google.com
 220.255.2.153	spreadsheets-china.l.google.com
 220.255.2.153	sslvideo-upload.l.google.com
-220.255.2.153	ssl-google-analytics.l.google.com
 220.255.2.153	static.cache.l.google.com
 220.255.2.153	suggestqueries.l.google.com
 220.255.2.153	tbn.l.google.com
@@ -3163,6 +3159,9 @@ fe80::1%lo0	localhost
 # 203.208.41.144	domains.googlesyndication.com
 # 203.208.41.144	pagead2.googlesyndication.com
 # 203.208.41.144	www.googletagservices.com
+# 203.208.41.144	www.google-analytics.com
+# 203.208.41.144	ssl.google-analytics.com
+# 203.208.41.144	ssl-google-analytics.l.google.com
 # 203.208.41.144	googleads.g.doubleclick.net
 # 203.208.41.144	googletagmanager.com
 # 203.208.41.144	www.googletagmanager.com
@@ -3634,17 +3633,13 @@ fe80::1%lo0	localhost
 # MEGA End
 
 # OneDrive Start
-#65.55.163.79	account.live.com
-#204.79.197.217	mail.live.com
-#23.59.136.70	auth.gfx.ms
-#131.253.61.66	login.live.com
-#204.79.197.217	onedrive.live.com
-#23.212.129.202	p.sfx.ms
-#134.170.30.15	people.live.com
-#134.170.30.15	profile.live.com
-#134.170.111.96	skyapi.onedrive.live.com
-#134.170.104.168	storage.live.com
-#204.79.197.213	nhuhga.dm2301.livefilestore.com
+204.79.197.217	onedrive.live.com
+134.170.107.72	storage.live.com
+134.170.30.15	people.live.com
+134.170.30.15	profile.live.com
+134.170.104.24	skyapi.onedrive.live.com
+23.41.136.70	auth.gfx.ms
+23.53.65.164	p.sfx.ms
 # OneDrive End
 
 # SoundCloud Start
@@ -3814,7 +3809,6 @@ fe80::1%lo0	localhost
 216.115.100.102	s.yimg.com
 119.160.254.215	s1.yimg.com
 106.10.193.20	sa.edit.yahoo.com
-124.108.120.124	sa.edit.yahoo.com
 208.71.44.31	secure.flickr.com
 106.10.193.30	sp.analytics.yahoo.com
 106.10.137.23	static.flickr.com
@@ -3951,9 +3945,5 @@ fe80::1%lo0	localhost
 149.154.167.99	core.telegram.org
 149.154.167.99	macos.telegram.org
 # telegram end
-
-# iTunes Start
-23.214.233.166	s.mzstatic.com
-# iTunes End
 
 # Modified hosts end
