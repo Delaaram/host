@@ -1,7 +1,7 @@
 [![doodle]][doodle-story]
 
-[doodle]: http://www.g20.org/images/logo.png "undefined"
-[doodle-story]: http://www.g20.org/
+[doodle]: https://www.google.com/logos/doodles/2016/googles-18th-birthday-5661535679545344-hp2x.gif "Google 18岁啦"
+[doodle-story]: https://www.google.com.hk/search?q=Google
 
 **使用本项目之前，请先阅读此 [README](README.md) 及下方的许可协议**
 
@@ -33,7 +33,7 @@
    > 注意：如果遇到无法保存，请右键文件hosts并找到“属性” -> “安全”，然后选择你登陆的用户名，最后点击编辑，勾选“写入”即可。
 
 * **其他平台**请将 [hosts][github-hosts] 全部内容复制到`/etc/hosts`中并保存。
-> 附：[各平台 hosts 位置](https://github.com/racaljk/hosts/wiki/%E5%90%84%E5%B9%B3%E5%8F%B0-hosts-%E6%96%87%E4%BB%B6%E4%BD%8D%E7%BD%AE)
+> 附：[各平台 hosts 位置](https://github.com/racaljk/hosts/wiki/各平台-hosts-文件位置)
 
 **注意**： 若更新后，hosts 没有立即生效，请重置网络：
 
