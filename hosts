@@ -580,6 +580,7 @@ fe80::1%lo0	localhost
 220.255.2.153	uploads.stage.gdata.youtube.com
 220.255.2.153	answers.google.com
 220.255.2.153	wenda.google.com.hk
+220.255.2.153	analytics.googleblog.com
 220.255.2.153	android.googleblog.com
 220.255.2.153	research.googleblog.com
 220.255.2.153	security.googleblog.com
@@ -685,6 +686,9 @@ fe80::1%lo0	localhost
 # 220.255.2.153	codereview.chromium.org
 #220.255.2.153	dl.google.com
 #220.255.2.153	dl.l.google.com
+220.255.2.153	www.appspot.com
+220.255.2.153	appspot.com
+220.255.2.153	apis-explorer.appspot.com
 220.255.2.153	betaspike.appspot.com
 220.255.2.153	hstspreload.appspot.com
 220.255.2.153	chrome-devtools-frontend.appspot.com
@@ -926,6 +930,7 @@ fe80::1%lo0	localhost
 220.255.2.153	sb.google.com
 220.255.2.153	sb-ssl.google.com
 220.255.2.153	safebrowsing.google.com
+220.255.2.153	search.google.com
 220.255.2.153	alt1-safebrowsing.google.com
 220.255.2.153	safebrowsing.clients.google.com
 220.255.2.153	safebrowsing-cache.google.com
@@ -943,6 +948,9 @@ fe80::1%lo0	localhost
 220.255.2.153	translate.google.com.hk
 220.255.2.153	translate.google.com.tw
 220.255.2.153	trends.google.com
+220.255.2.153	google-analytics.com
+220.255.2.153	www.google-analytics.com
+220.255.2.153	ssl.google-analytics.com
 220.255.2.153	0.gvt0.com
 220.255.2.153	1.gvt0.com
 220.255.2.153	2.gvt0.com
@@ -980,6 +988,7 @@ fe80::1%lo0	localhost
 220.255.2.153	www.registry.google
 220.255.2.153	www.domains.google
 220.255.2.153	registry.google
+220.255.2.153	apikeys.clients6.google.com
 220.255.2.153	servicemanagement.clients6.google.com
 220.255.2.153	cloudconsole-pa.clients6.google.com
 220.255.2.153	iam.clients6.google.com
@@ -1326,6 +1335,7 @@ fe80::1%lo0	localhost
 220.255.2.153	googlehosted.l.googleusercontent.com
 220.255.2.153	googlecode.l.googleusercontent.com
 220.255.2.153	googlegroups.l.googleusercontent.com
+220.255.2.153	markuphelper.googleusercontent.com
 220.255.2.153	orkut-opensocial.l.googleusercontent.com
 220.255.2.153	photos-ugc.l.googleusercontent.com
 220.255.2.153	storage.l.googleusercontent.com
@@ -3153,9 +3163,7 @@ fe80::1%lo0	localhost
 # 203.208.41.144	domains.googlesyndication.com
 # 203.208.41.144	pagead2.googlesyndication.com
 # 203.208.41.144	www.googletagservices.com
-# 203.208.41.144	www.google-analytics.com
 # 203.208.41.144	googleads.g.doubleclick.net
-# 203.208.41.144	ssl.google-analytics.com
 # 203.208.41.144	googletagmanager.com
 # 203.208.41.144	www.googletagmanager.com
 # 203.208.41.144	fonts.gstatic.com
