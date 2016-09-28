@@ -5,7 +5,7 @@
 
 **使用本项目之前，请先阅读此 [README](README.md) 及下方的许可协议**
 
-**注意: Google 等网站请通过 https 方式访问，如** [https://www.google.com](https://www.google.com/ncr)
+**注意: Google 等网站请通过 https 方式访问，如** https://www.google.com/ncr
 
 |       [聊天室][chat-room]       |    [hosts 格式检测][travis-status]    |  [镜像hosts][mirror_of_hosts]  |  [常见问题解答][faq]  |
 | :----------------------------: | :-----------------------------------: |  :---------------------------: |  :-----------------: |
@@ -22,7 +22,7 @@
 [faq]: https://github.com/racaljk/hosts/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94
 
 ## 更新 hosts
-#### 推荐使用项目内的 [tools](tools) 来自动备份/更新 hosts 文件
+#### 推荐使用项目内的 [应用/工具](tools) 来自动备份/更新 hosts 文件
 
 * **Windows**
    1. 用文本编辑器（如 [Notepad++](https://notepad-plus-plus.org/)）打开：`
