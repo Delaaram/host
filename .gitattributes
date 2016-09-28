@@ -1,10 +1,2 @@
 # hosts file always be normalized on checkin
 hosts text
-
-*.md text
-*.sh eol=lf
-.travis.yml eol=lf
-tools/Hindent eol=lf
-tools/lhosts eol=lf
-
-*.zip binary
