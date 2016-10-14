@@ -3777,4 +3777,21 @@ fe80::1%lo0	localhost
 149.154.167.99	macos.telegram.org
 # telegram end
 
+# issuu Start
+52.72.26.162	issuu.com
+52.72.26.162	www.issuu.com
+52.72.26.162	blog.issuu.com
+52.72.26.162	developers.issuu.com
+52.72.26.162	pingback.issuu.com
+52.72.26.162	photo.issuu.com
+52.72.26.162	page.issuu.com
+52.72.26.162	image.issuu.com
+52.72.26.162	api.issuu.com
+52.72.26.162	content.issuu.com
+52.72.26.162	static.issuu.com
+52.72.26.162	skin.issuu.com
+52.72.26.162	help.issuu.com
+52.72.26.162	static.issuu.com
+# issuu End
+
 # Modified hosts end
