@@ -504,7 +504,6 @@
 220.255.2.153	www.chromestatus.com
 220.255.2.153	chrome.google.com
 220.255.2.153	browsersync.google.com
-220.255.2.153	toolbarqueries.google.com
 220.255.2.153	toolbarqueries.google.com.hk
 220.255.2.153	toolbarqueries.clients.google.com
 220.255.2.153	chromium.org
@@ -698,7 +697,6 @@
 220.255.2.153	www.orkut.com
 220.255.2.153	www.orkut.gmodules.com
 220.255.2.153	pack.google.com
-220.255.2.153	cache.pack.google.com
 220.255.2.153	photos.google.com
 220.255.2.153	picasa.google.com
 220.255.2.153	picasaweb.google.com
@@ -851,7 +849,6 @@
 220.255.2.153	play.googleapis.com
 220.255.2.153	plus.googleapis.com
 220.255.2.153	redirector-bigcache.googleapis.com
-220.255.2.153	translate.googleapis.com
 220.255.2.153	youtube.googleapis.com
 220.255.2.153	youtubei.googleapis.com
 220.255.2.153	mt0.googleapis.com
@@ -879,9 +876,6 @@
 220.255.2.153	base3.googlehosted.com
 220.255.2.153	base4.googlehosted.com
 220.255.2.153	base5.googlehosted.com
-220.255.2.153	s0.2mdn.net
-220.255.2.153	s1.2mdn.net
-220.255.2.153	service.urchin.com
 220.255.2.153	analytics.google.com
 220.255.2.153	www.googleartproject.com
 220.255.2.153	feedburner.google.com
@@ -979,11 +973,9 @@
 220.255.2.153	sslvideo-upload.l.google.com
 220.255.2.153	suggestqueries.l.google.com
 220.255.2.153	tbn.l.google.com
-220.255.2.153	toolbarqueries.l.google.com
 220.255.2.153	tools.l.google.com
 220.255.2.153	video.l.google.com
 220.255.2.153	googlecl.googlecode.com
-220.255.2.153	s0-2mdn-net.l.google.com
 220.255.2.153	video-stats.l.google.com
 220.255.2.153	video-analytics.l.google.com
 220.255.2.153	video-thumbnails.l.google.com
@@ -1000,7 +992,6 @@
 220.255.2.153	admob.com
 220.255.2.153	www.admob.com
 220.255.2.153	apps.admob.com
-220.255.2.153	www.googleadservices.com
 220.255.2.153	adwords.google.com
 220.255.2.153	adwords.google.sk
 220.255.2.153	www.android.com
