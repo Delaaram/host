@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2016, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2016-10-20
+# Last updated: 2016-10-22
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3086,12 +3086,7 @@
 
 # OneDrive Start
 204.79.197.217	onedrive.live.com
-134.170.107.72	storage.live.com
-134.170.30.15	people.live.com
-134.170.30.15	profile.live.com
 134.170.104.24	skyapi.onedrive.live.com
-23.41.136.70	auth.gfx.ms
-23.53.65.164	p.sfx.ms
 # OneDrive End
 
 # Smartdnsproxy start
