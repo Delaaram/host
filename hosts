@@ -98,7 +98,7 @@
 218.254.1.13	www.v.dropbox.com
 218.254.1.13	dl-debug.dropbox.com
 #######
-162.125.65.1	www.dropbox.com
+162.125.82.1	www.dropbox.com
 52.85.76.60	linux.dropbox.com
 108.160.172.193	d.dropbox.com
 108.160.172.193	d.v.dropbox.com
@@ -702,7 +702,6 @@
 220.255.2.153	news.google.com.hk
 220.255.2.153	news.google.com.tw
 220.255.2.153	orkut.google.com
-220.255.2.153	www.orkut.com
 220.255.2.153	www.orkut.gmodules.com
 220.255.2.153	pack.google.com
 220.255.2.153	photos.google.com
@@ -2276,10 +2275,10 @@
 220.255.2.153	m.google.com.sg
 220.255.2.153	mobile.google.com
 220.255.2.153	mobile.l.google.com
-216.58.217.12	proxy.googlezip.net
-216.58.217.12	compress.googlezip.net
-216.58.217.12	proxy-dev.googlezip.net
-220.255.2.153	polymer-project.org
+216.58.196.236	proxy.googlezip.net
+216.58.196.236	compress.googlezip.net
+216.58.196.236	proxy-dev.googlezip.net
+216.239.34.21	polymer-project.org
 220.255.2.153	www.polymer-project.org
 220.255.2.153	talkgadget.l.google.com
 220.255.2.153	hangouts.google.com
