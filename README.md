@@ -1,7 +1,7 @@
 [![doodle]][doodle-story]
 
-[doodle]: https://www.google.com/logos/doodles/2016/googles-18th-birthday-5661535679545344-hp2x.gif "Google 18岁啦"
-[doodle-story]: https://www.google.com.hk/search?q=Google
+[doodle]: https://www.google.com/logos/doodles/2016/340th-anniversary-of-the-determination-of-the-speed-of-light-5651280530767872-hp2x.gif "测定光速 340 周年纪念日"
+[doodle-story]: https://www.google.com.hk/search?q=%E5%85%89%E9%80%9F%E6%B5%8B%E9%87%8F
 
 **使用本项目之前，请先阅读此 [README](README.md) 及下方的许可协议**
 
@@ -11,11 +11,11 @@
 | :----------------------------: | :-----------------------------------: |  :---------------------------: |  :-----------------: |
 |  [![chat-metadata]][chat-room] |  [![travis-metadata]][travis-status]  |  [![coding.net]][coding-link]  |  [![faq-icon]][faq]  |
 
-[chat-metadata]: https://github.com/racaljk/hosts/releases/download/img-bak/gitter-metadata.png "Join the chat"
+[chat-metadata]: https://badges.gitter.im/racaljk/hosts.svg "Join the chat"
 [chat-room]: https://gitter.im/racaljk/hosts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge "Gitter chat room"
 [travis-metadata]: https://travis-ci.org/racaljk/hosts.svg "Travis CI Metadata"
 [travis-status]: https://travis-ci.org/racaljk/hosts "Travis CI Status"
-[coding.net]: https://github.com/racaljk/hosts/releases/download/img-bak/coding-icon.png
+[coding.net]: https://cloud.githubusercontent.com/assets/7419875/21286217/c6642eb2-c488-11e6-94b1-8ad01d31ac9d.png
 [coding-link]: https://coding.net/u/scaffrey/p/hosts/git "Coding"
 [mirror_of_hosts]: https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts
 [faq-icon]: http://www.easyicon.net/api/resizeApi.php?id=1190784&size=48
