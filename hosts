@@ -162,6 +162,8 @@
 157.240.0.17	www.facebook.com
 157.240.0.17	m.facebook.com
 157.240.0.17	mqtt.facebook.com
+157.240.0.17	mqtt-mini.facebook.com
+157.240.0.17	business.facebook.com
 157.240.0.17	s-static.ak.facebook.com
 23.76.153.42	static.ak.facebook.com
 23.76.153.42	b.static.ak.facebook.com
@@ -261,7 +263,7 @@
 # FlipBoard End
 
 # Github start
-192.30.253.113	gist.github.com
+192.30.253.118	gist.github.com
 # Github end
 
 # Gmail web Start
@@ -542,6 +544,7 @@
 61.91.161.217	jmoore-dot-android-experiments.appspot.com
 61.91.161.217	lfe-alpo-gm.appspot.com
 61.91.161.217	m-dot-betaspike.appspot.com
+61.91.161.217	joinjoaomgcd.appspot.com
 61.91.161.217	accounts.google.com.gi
 61.91.161.217	accounts.google.co.nz
 61.91.161.217	id.google.co.nz
@@ -2303,6 +2306,7 @@
 61.91.161.217	chromoting-host.talkgadget.google.com
 61.91.161.217	chromoting-client.talkgadget.google.com
 61.91.161.217	remoting-pa.googleapis.com
+61.91.161.217	personalsafety-pa.googleapis.com
 61.91.161.217	clientmetrics-pa.googleapis.com
 61.91.161.217	contacts.google.com
 61.91.161.217	youtube.com
@@ -2813,6 +2817,7 @@
 64.233.188.188	gcm.googleapis.com
 64.233.188.188	gcm.l.google.com
 64.233.188.188	gcm-xmpp.googleapis.com
+64.233.188.188	gcm-http.googleapis.com
 64.233.188.188	gcm-preprod.l.google.com
 64.233.188.188	gcm-preprod.googleapis.com
 # Google:gcm End
@@ -3100,34 +3105,32 @@
 # OneDrive Start
 204.79.197.217	onedrive.live.com
 134.170.107.72	skyapi.onedrive.live.com
-204.79.197.217	webedgegeo.skyprod.akadns.net
+204.79.197.213	dm2303files.storage.live.com
+204.79.197.213	bn1306files.storage.live.com
+204.79.197.213	48srbg-bn1306.files.1drv.com
 204.79.197.213	asdzyw-bn1306.files.1drv.com
 204.79.197.213	fqxapq-bn1306.files.1drv.com
 204.79.197.213	hvukpa-bn1306.files.1drv.com
+204.79.197.213	ifvbsg-bn1306.files.1drv.com
 204.79.197.213	ivvbsg-bn1306.files.1drv.com
-204.79.197.213	public-bn1306.files.1drv.com
-204.79.197.213	svdteg-bn1306.files.1drv.com
-204.79.197.213	public-dm2306.files.1drv.com
 204.79.197.213	nprmzg-bn1306.files.1drv.com
+204.79.197.213	oqnmtq-bn1306.files.1drv.com
+204.79.197.213	ppssca-bn1306.files.1drv.com
+204.79.197.213	public-bn1306.files.1drv.com
+204.79.197.213	public-dm2306.files.1drv.com
+204.79.197.213	qii5sg-bn1306.files.1drv.com
+204.79.197.213	r1abtq-bn1306.files.1drv.com
+204.79.197.213	rdtikq-bn1306.files.1drv.com
+204.79.197.213	rtuqta-bn1306.files.1drv.com
 204.79.197.213	slavvw-bn1306.files.1drv.com
 204.79.197.213	smnyag-bn1306.files.1drv.com
 204.79.197.213	svdteg-bn1306.files.1drv.com
-204.79.197.213	rdtikq-bn1306.files.1drv.com
-204.79.197.213	oqnmtq-bn1306.files.1drv.com
-204.79.197.213	ifvbsg-bn1306.files.1drv.com
-204.79.197.213	rtuqta-bn1306.files.1drv.com
-204.79.197.213	48srbg-bn1306.files.1drv.com
-204.79.197.213	ppssca-bn1306.files.1drv.com
-204.79.197.213	qii5sg-bn1306.files.1drv.com
-204.79.197.213	r1abtq-bn1306.files.1drv.com
-204.79.197.213	dm2303files.storage.live.com
-204.79.197.213	bn1306files.storage.live.com
 204.79.197.213	nhuhga.dm2301.livefilestore.com
 204.79.197.213	public.dm2301.livefilestore.com
 204.79.197.213	public.dm2302.livefilestore.com
 204.79.197.213	public.dm2303.livefilestore.com
 204.79.197.213	public.dm2304.livefilestore.com
-204.79.197.213	bn1306files.storage.live.com
+204.79.197.217	webedgegeo.skyprod.akadns.net
 # OneDrive End
 
 # Smartdnsproxy start
