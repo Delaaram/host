@@ -1,7 +1,7 @@
 [![doodle]][doodle-story]
 
-[doodle]: https://www.google.com/logos/doodles/2016/340th-anniversary-of-the-determination-of-the-speed-of-light-5651280530767872-hp2x.gif "测定光速 340 周年纪念日"
-[doodle-story]: https://www.google.com.hk/search?q=%E5%85%89%E9%80%9F%E6%B5%8B%E9%87%8F
+[doodle]: https://www.google.com/logos/doodles/2016/holidays-2016-day-3-southern-hemisphere-5185011929055232-hp2x.gif "圣诞快乐！"
+[doodle-story]: https://www.google.com.hk/search?q=%E5%9C%A3%E8%AF%9E%E8%8A%82
 
 **使用本项目之前，请先阅读此 [README](README.md) 及下方的许可协议**
 
