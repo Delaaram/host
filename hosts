@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2016-12-30
+# Last updated: 2017-01-02
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -172,6 +172,7 @@
 157.240.0.17	api.facebook.com
 157.240.0.17	secure.facebook.com
 157.240.0.17	zh-cn.facebook.com
+157.240.0.17	l.facebook.com
 157.240.0.17	login.facebook.com
 157.240.0.17	attachments.facebook.com
 157.240.0.17	touch.facebook.com
