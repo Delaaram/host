@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-01-09
+# Last updated: 2017-01-12
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -10,6 +10,13 @@
 ::1	localhost ip6-localhost ip6-loopback
 
 # Modified hosts start
+
+# Psiphon Start
+54.239.168.4	psiphon3.com
+54.239.168.4	www.psiphon3.com
+104.20.39.14	psiphon.ca
+104.20.39.14	www.psiphon.ca
+# Psiphon End
 
 # Armorgames Start
 93.184.220.39	cache.armorgames.com
