@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-01-24
+# Last updated: 2017-01-25
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2854,10 +2854,14 @@
 # HumbleBundle End
 
 # imgur Start
-151.101.24.193	imgur.com
-151.101.24.193	www.imgur.com
-151.101.24.193	i.imgur.com
-151.101.24.193	s.imgur.com
+151.101.100.193	imgur.com
+151.101.100.193	m.imgur.com
+151.101.100.193	api.imgur.com
+151.101.100.193	www.imgur.com
+151.101.100.193	store.imgur.com
+151.101.100.193	s.imgur.com
+151.101.100.193	p.imgur.com
+151.101.100.193	i.imgur.com
 # imgur End
 
 # Instagram Start
