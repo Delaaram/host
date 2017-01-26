@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-01-26
+# Last updated: 2017-01-27
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -206,28 +206,29 @@
 157.240.0.17	vupload2.facebook.com
 157.240.0.17	d.facebook.com
 157.240.0.17	fbcdn.net
-31.13.78.17	scontent.xx.fbcdn.net
-31.13.78.17	scontent-a.xx.fbcdn.net
-31.13.78.17	scontent-b.xx.fbcdn.net
-31.13.78.17	scontent-c.xx.fbcdn.net
-31.13.78.17	scontent-d.xx.fbcdn.net
-31.13.78.17	scontent-e.xx.fbcdn.net
-31.13.78.17	scontent-mxp.xx.fbcdn.net
-31.13.78.17	scontent-a-lax.xx.fbcdn.net
-31.13.78.17	scontent-a-sin.xx.fbcdn.net
-31.13.78.17	scontent-b-lax.xx.fbcdn.net
-31.13.78.17	scontent-b-sin.xx.fbcdn.net
-31.13.78.17	ent-a.xx.fbcdn.net
-31.13.78.17	ent-b.xx.fbcdn.net
-31.13.78.17	ent-c.xx.fbcdn.net
-31.13.78.17	ent-d.xx.fbcdn.net
-31.13.78.17	ent-e.xx.fbcdn.net
+157.240.0.17	static.xx.fbcdn.net
+157.240.0.17	scontent.xx.fbcdn.net
+157.240.0.17	scontent-a.xx.fbcdn.net
+157.240.0.17	scontent-b.xx.fbcdn.net
+157.240.0.17	scontent-c.xx.fbcdn.net
+157.240.0.17	scontent-d.xx.fbcdn.net
+157.240.0.17	scontent-e.xx.fbcdn.net
+157.240.0.17	scontent-mxp.xx.fbcdn.net
+157.240.0.17	scontent-a-lax.xx.fbcdn.net
+157.240.0.17	scontent-a-sin.xx.fbcdn.net
+157.240.0.17	scontent-b-lax.xx.fbcdn.net
+157.240.0.17	scontent-b-sin.xx.fbcdn.net
+157.240.0.17	ent-a.xx.fbcdn.net
+157.240.0.17	ent-b.xx.fbcdn.net
+157.240.0.17	ent-c.xx.fbcdn.net
+157.240.0.17	ent-d.xx.fbcdn.net
+157.240.0.17	ent-e.xx.fbcdn.net
 23.207.122.24	s-external.ak.fbcdn.net
 23.34.45.177	s-static.ak.fbcdn.net
 157.240.0.17	static.thefacebook.com
 157.240.0.17	attachment.fbsbx.com
-31.13.78.17	staticxx.facebook.com
-31.13.78.17	connect.facebook.net
+157.240.0.17	staticxx.facebook.com
+157.240.0.17	connect.facebook.net
 192.0.78.13	live.fb.com
 192.0.78.13	work.fb.com
 192.0.78.13	techprep.fb.com
@@ -237,7 +238,7 @@
 192.0.78.13	instantarticles.fb.com
 192.0.66.2	messengerplatform.fb.com
 199.201.64.67	threatexchange.fb.com
-31.13.78.17	video.xx.fbcdn.net
+157.240.7.21	video.xx.fbcdn.net
 184.28.188.10	fbcdn-sphotos-b-a.akamaihd.net
 184.28.188.10	vthumb.ak.fbcdn.net
 184.28.188.10	photos-a.ak.fbcdn.net
