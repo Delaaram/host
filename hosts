@@ -3115,6 +3115,9 @@
 # OneDrive Start
 204.79.197.217	onedrive.live.com
 134.170.107.72	skyapi.onedrive.live.com
+204.79.197.217	skyweb.skyprod.akadns.net
+204.79.197.217	webedgegeo.skyprod.akadns.net
+13.107.42.11	outlook.live.com
 # OneDrive End
 
 # Psiphon Start
