@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-01-27
+# Last updated: 2017-01-29
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -519,6 +519,7 @@
 61.91.161.217	calendar.google.com
 61.91.161.217	checkout.google.com
 61.91.161.217	wallet.google.com
+61.91.161.217	landing.google.com
 61.91.161.217	chrome.com
 61.91.161.217	www.chrome.com
 61.91.161.217	developer.chrome.com
