@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-02-06
+# Last updated: 2017-02-07
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3352,8 +3352,8 @@
 104.156.85.217	vimeo.com
 104.156.85.217	www.vimeo.com
 104.156.85.217	player.vimeo.com
-103.245.224.143	i.vimeocdn.com
-103.245.224.143	f.vimeocdn.com
+151.101.73.133	i.vimeocdn.com
+151.101.73.133	f.vimeocdn.com
 103.245.222.249	vimeo-hp-videos.global.ssl.fastly.net
 198.245.92.39	click.email.vimeo.com
 # Vimeo End
