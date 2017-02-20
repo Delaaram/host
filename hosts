@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-02-20
+# Last updated: 2017-02-21
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2322,7 +2322,7 @@
 216.58.196.236	proxy.googlezip.net
 216.58.196.236	compress.googlezip.net
 216.58.196.236	proxy-dev.googlezip.net
-216.58.199.243	polymer-project.org
+216.239.34.21	polymer-project.org
 216.58.199.243	www.polymer-project.org
 61.91.161.217	talkgadget.l.google.com
 61.91.161.217	hangouts.google.com
