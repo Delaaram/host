@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-02-11
+# Last updated: 2017-02-20
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3512,7 +3512,7 @@
 106.10.193.20	open.login.yahoo.com
 216.39.54.12	overview.mail.yahoo.com
 119.160.254.215	p.yimg.com
-216.115.100.106	s.yimg.com
+124.108.101.57	s.yimg.com
 119.160.254.215	s1.yimg.com
 106.10.193.20	sa.edit.yahoo.com
 208.71.44.31	secure.flickr.com
