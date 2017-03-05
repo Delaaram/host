@@ -3284,6 +3284,19 @@
 13.107.42.11	outlook.live.com
 # OneDrive End
 
+# pcbeta Start
+218.93.127.136	pcbeta.com
+218.93.127.136	uc.pcbeta.com
+218.93.127.136	m.pcbeta.com
+218.93.127.136	web.pcbeta.com
+218.93.127.136	i.pcbeta.com
+218.93.127.136	bbs.pcbeta.com
+218.93.127.136	www.pcbeta.com
+218.93.127.136	cdn.pcbeta.attachment.inimc.com
+218.93.127.136	cdn.pcbeta.static.inimc.com
+218.93.127.136	cdn.pcbeta.css.inimc.com
+# pcbeta End
+
 # Psiphon Start
 54.239.168.4	psiphon3.com
 54.239.168.4	www.psiphon3.com
@@ -3529,6 +3542,10 @@
 198.35.26.96	zh.m.wikipedia.org
 # Wikipedia End
 
+# Xboxlive Start
+134.170.178.89	achievements.xboxlive.com
+# Xboxlive End
+
 # Yahoo Start
 192.0.79.32	code.flickr.com
 119.161.10.150	api.flickr.com
@@ -3605,22 +3622,5 @@
 50.18.192.250	duckduckgo-owned-server.yahoo.net
 116.214.11.98	tw.mobi.yahoo.com
 # Yahoo End
-
-# pcbeta Start
-218.93.127.136	pcbeta.com
-218.93.127.136	uc.pcbeta.com
-218.93.127.136	m.pcbeta.com
-218.93.127.136	web.pcbeta.com
-218.93.127.136	i.pcbeta.com
-218.93.127.136	bbs.pcbeta.com
-218.93.127.136	www.pcbeta.com
-218.93.127.136	cdn.pcbeta.attachment.inimc.com
-218.93.127.136	cdn.pcbeta.static.inimc.com
-218.93.127.136	cdn.pcbeta.css.inimc.com
-# pcbeta End
-
-# Xboxlive Start
-134.170.178.89	achievements.xboxlive.com
-# Xboxlive End
 
 # Modified hosts end
