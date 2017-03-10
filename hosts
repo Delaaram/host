@@ -3305,6 +3305,12 @@
 104.20.39.14	www.psiphon.ca
 # Psiphon End
 
+# pinterest Start
+151.101.64.84	www.pinterest.com
+23.212.99.185	s-media-cache-ak0.pinimg.com
+23.212.99.185	s.pinimg.com
+# pinterest End
+
 # Smartdnsproxy start
 103.28.248.96	www.smartdnsproxy.com
 184.72.50.35	support.smartdnsproxy.com
