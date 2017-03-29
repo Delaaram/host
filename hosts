@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-03-29
+# Last updated: 2017-03-30
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -531,11 +531,14 @@
 61.91.161.217	googleforstudents.blogspot.com
 61.91.161.217	students.googleblog.com
 61.91.161.217	chrome.blogspot.com
+61.91.161.217	publicpolicy.googleblog.com
+61.91.161.217	googlepublicpolicy.blogspot.com
 61.91.161.217	googleadservices.com
 61.91.161.217	www.googleadservices.com
 61.91.161.217	google-latlong.blogspot.com
 61.91.161.217	insidesearch.blogspot.com
 61.91.161.217	googleadsdeveloper.blogspot.com
+61.91.161.217	googledevelopers.blogspot.com
 61.91.161.217	officialandroid.blogspot.com
 61.91.161.217	android-developers.blogspot.com
 61.91.161.217	android-developers.blogspot.hk
@@ -915,6 +918,7 @@
 61.91.161.217	khms0.googleapis.com
 61.91.161.217	khms1.googleapis.com
 61.91.161.217	maps.googleapis.com
+61.91.161.217	opensourceprojects-pa.googleapis.com
 61.91.161.217	origin-commondatastorage.googleapis.com
 216.58.221.144	commondatastorage.googleapis.com
 61.91.161.217	photos.googleapis.com
