@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-03-28
+# Last updated: 2017-03-29
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -353,6 +353,7 @@
 61.91.161.217	linkhelp.clients.google.com
 61.91.161.217	upload.clients.google.com
 61.91.161.217	myaccount.google.com
+61.91.161.217	opensource.google.com
 61.91.161.217	peering.google.com
 61.91.161.217	places.google.com
 61.91.161.217	pki.google.com
@@ -486,6 +487,7 @@
 61.91.161.217	gmail.googleblog.com
 61.91.161.217	chrome.googleblog.com
 61.91.161.217	search.googleblog.com
+61.91.161.217	opensource.googleblog.com
 61.91.161.217	webmasters.googleblog.com
 61.91.161.217	maps.googleblog.com
 61.91.161.217	cloudplatform.googleblog.com
