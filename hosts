@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-05-03
+# Last updated: 2017-05-05
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -119,7 +119,7 @@
 151.101.100.134	apkpure.disqus.com
 151.101.100.134	content.disqus.com
 151.101.100.134	docs.disqus.com
-151.101.100.134	dropbox.disqus.com
+151.101.100.134	108.160.173.232.disqus.com
 151.101.100.134	referrer.disqus.com
 23.65.183.218	about.disqus.com
 23.65.183.218	blog.disqus.com
@@ -131,55 +131,55 @@
 # Disqus End
 
 # Dropbox Start
-108.160.173.233	db.tt
-52.29.64.168	dropbox.com
-52.29.64.168	www.dropbox.com
-162.125.32.9	www.v.dropbox.com
-162.125.32.9	www.dropbox-dns.com
-108.160.172.225	api.dropbox.com
-108.160.172.225	api-d.dropbox.com
-108.160.172.225	api.dropboxapi.com
-108.160.172.225	api.v.dropbox.com
-108.160.172.225	api-notify.dropbox.com
-199.47.217.36	api-content.dropbox.com
-199.47.217.36	api-content-photos.dropbox.com
-54.192.213.118	blogs.dropbox.com
-199.47.217.97	block.dropbox.com
-199.47.217.97	block.v.dropbox.com
-162.125.34.129	bolt.dropbox.com
-108.160.172.236	client.dropbox.com
-108.160.172.236	client.v.dropbox.com
-108.160.172.236	client-lb.dropbox.com
-54.192.108.33	client-cf.dropbox.com
-108.160.172.236	client-web.dropbox.com
-108.160.172.225	d.dropbox.com
-108.160.172.225	d.v.dropbox.com
-45.58.69.38	dl.dropbox.com
-162.125.18.132	dl-doc.dropbox.com
-45.58.70.5	dl-web.dropbox.com
-108.160.173.162	dl-debug.dropbox.com
-45.58.69.37	dl.dropboxusercontent.com
-54.192.213.118	forums.dropbox.com
-52.85.76.60	linux.dropbox.com
-108.160.173.233	m.dropbox.com
-54.192.213.118	marketing.dropbox.com
-162.125.32.129	notify.dropbox.com
-108.160.172.207	photos.dropbox.com
-162.125.18.2	photos-1.dropbox.com
-162.125.18.2	photos-2.dropbox.com
-162.125.18.2	photos-3.dropbox.com
-162.125.18.2	photos-4.dropbox.com
-162.125.18.2	photos-5.dropbox.com
-162.125.18.2	photos-6.dropbox.com
-162.125.17.129	photos-thumb.dropbox.com
-162.125.17.129	photos-thumb.x.dropbox.com
-54.192.213.118	status.dropbox.com
-54.192.213.118	snapengage.dropbox.com
-108.160.172.225	www.dropboxstatic.com
-104.16.100.29	cfl.dropboxstatic.com
-54.230.214.100	cf.dropboxstatic.com
-108.160.172.229	dbxlocal.dropboxstatic.com
-108.160.172.227	log.getdropbox.com
+108.160.173.193	db.tt
+108.160.173.193	dropbox.com
+108.160.173.193	www.dropbox.com
+108.160.173.193	www.v.dropbox.com
+108.160.173.193	www.dropbox-dns.com
+108.160.173.193	api.dropbox.com
+108.160.173.193	api-d.dropbox.com
+108.160.173.193	api.dropboxapi.com
+108.160.173.193	api.v.dropbox.com
+108.160.173.193	api-notify.dropbox.com
+108.160.173.193	api-content.dropbox.com
+108.160.173.193	api-content-photos.dropbox.com
+108.160.173.193	blogs.dropbox.com
+108.160.173.193	block.dropbox.com
+108.160.173.193	block.v.dropbox.com
+108.160.173.193	bolt.dropbox.com
+108.160.173.193	client.dropbox.com
+108.160.173.193	client.v.dropbox.com
+108.160.173.193	client-lb.dropbox.com
+108.160.173.193	client-cf.dropbox.com
+108.160.173.193	client-web.dropbox.com
+108.160.173.193	d.dropbox.com
+108.160.173.193	d.v.dropbox.com
+108.160.173.193	dl.dropbox.com
+108.160.173.193	dl-doc.dropbox.com
+108.160.173.193	dl-web.dropbox.com
+108.160.173.193	dl-debug.108.160.173.193dropbox.com
+108.160.172.6	dl.dropboxusercontent.com
+108.160.173.193	forums.dropbox.com
+108.160.173.193	linux.dropbox.com
+108.160.173.193	m.dropbox.com
+108.160.173.193	marketing.dropbox.com
+108.160.173.193	notify.dropbox.com
+108.160.173.193	photos.dropbox.com
+108.160.173.193	photos-1.dropbox.com
+108.160.173.193	photos-2.dropbox.com
+108.160.173.193	photos-3.dropbox.com
+108.160.173.193	photos-4.dropbox.com
+108.160.173.193	photos-5.dropbox.com
+108.160.173.193	photos-6.dropbox.com
+108.160.173.193	photos-thumb.dropbox.com
+108.160.173.193	photos-thumb.x.108.160.173.193dropbox.com
+108.160.173.193	status.dropbox.com
+108.160.173.193	snapengage.dropbox.com
+108.160.173.234	www.dropboxstatic.com
+108.160.173.234	cfl.dropboxstatic.com
+108.160.173.234	cf.dropboxstatic.com
+108.160.173.234	dbxlocal.dropboxstatic.com
+108.160.173.234	log.getdropbox.com
 # Dropbox End
 
 # DuckDuckGo Start
