@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-05-05
+# Last updated: 2017-05-06
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -132,8 +132,8 @@
 
 # Dropbox Start
 108.160.173.193	db.tt
-108.160.173.193	dropbox.com
-108.160.173.193	www.dropbox.com
+108.160.173.201	dropbox.com
+162.125.32.14	www.dropbox.com
 108.160.173.193	www.v.dropbox.com
 108.160.173.193	www.dropbox-dns.com
 108.160.173.193	api.dropbox.com
