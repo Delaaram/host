@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-05-18
+# Last updated: 2017-05-19
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -143,8 +143,8 @@
 
 # Dropbox Start
 108.160.173.193	db.tt
-108.160.173.201	dropbox.com
-162.125.32.14	www.dropbox.com
+108.160.173.239	dropbox.com
+108.160.173.239	www.dropbox.com
 108.160.173.193	www.v.dropbox.com
 108.160.173.193	www.dropbox-dns.com
 108.160.173.193	api.dropbox.com
@@ -186,11 +186,11 @@
 108.160.173.193	photos-thumb.x.dropbox.com
 108.160.173.193	status.dropbox.com
 108.160.173.193	snapengage.dropbox.com
-108.160.173.234	www.dropboxstatic.com
-108.160.173.234	cfl.dropboxstatic.com
-108.160.173.234	cf.dropboxstatic.com
-108.160.173.234	dbxlocal.dropboxstatic.com
-108.160.173.234	log.getdropbox.com
+104.16.100.29	www.dropboxstatic.com
+104.16.100.29	cfl.dropboxstatic.com
+104.16.100.29	cf.dropboxstatic.com
+104.16.100.29	dbxlocal.dropboxstatic.com
+104.16.100.29	log.getdropbox.com
 # Dropbox End
 
 # DuckDuckGo Start
@@ -3327,6 +3327,9 @@
 218.93.127.136	cdn.pcbeta.attachment.inimc.com
 218.93.127.136	cdn.pcbeta.static.inimc.com
 218.93.127.136	cdn.pcbeta.css.inimc.com
+218.93.127.136	mac.pcbeta.com
+218.93.127.136	template.pcbeta.com
+218.93.127.136	static.template.pcbeta.com
 # pcbeta End
 
 # Psiphon Start
@@ -3425,6 +3428,17 @@
 37.0.89.57	support.ixquick.com
 # Startpage & Ixquick End
 
+# slideshare start
+103.20.93.138	www.slideshare.net
+103.20.93.138	slideshare.net
+103.20.93.138	de.slideshare.net
+103.20.93.138	engineering.slideshare.net
+103.20.93.138	es.slideshare.net
+103.20.93.138	fr.slideshare.net
+103.20.93.138	pt.slideshare.net
+103.20.93.138	blog.slideshare.net
+# slideshare End
+
 # telegram start
 # As an alternative, you can use:
 # https://telegram.ustclug.org
@@ -3486,21 +3500,22 @@
 # Travis CI End
 
 # Tumblr Start
-66.6.33.193	tumblr.com
-66.6.32.4	tumblr.co
-66.6.32.4	api.tumblr.com
-66.6.32.4	www.tumblr.com
+66.6.32.31	tumblr.com
+119.161.11.11	tumblr.co
+119.161.11.11	api.tumblr.com
+66.6.32.31	www.tumblr.com
 192.229.237.97	cynicallys.tumblr.com
 192.229.237.97	mx.tumblr.com
-54.182.6.6	vt.tumblr.com
+119.161.11.11	vt.tumblr.com
 87.248.116.14	vt.media.tumblr.com
 216.115.100.126	vtt.tumblr.com
 66.6.32.162	ls.srvcs.tumblr.com
 66.6.32.162	px.srvcs.tumblr.com
-119.161.4.10	assets.tumblr.com
+119.161.11.11	assets.tumblr.com
 119.160.254.215	secure.assets.tumblr.com
+119.161.9.50	static.tumblr.com
 54.182.6.6	secure.static.tumblr.com
-66.6.44.4	media.tumblr.com
+119.161.11.11	media.tumblr.com
 119.161.10.198	24.media.tumblr.com
 192.229.237.98	30.media.tumblr.com
 216.115.100.126	31.media.tumblr.com
@@ -3509,22 +3524,22 @@
 54.230.158.13	36.media.tumblr.com
 216.115.100.126	37.media.tumblr.com
 216.115.100.126	38.media.tumblr.com
-209.197.3.20	39.media.tumblr.com
+119.161.9.50	39.media.tumblr.com
 192.229.237.98	40.media.tumblr.com
-209.197.3.20	41.media.tumblr.com
+119.161.9.50	41.media.tumblr.com
 192.229.237.185	42.media.tumblr.com
-209.197.3.20	43.media.tumblr.com
+119.161.9.50	43.media.tumblr.com
 192.229.237.98	44.media.tumblr.com
-209.197.3.20	45.media.tumblr.com
+119.161.9.50	45.media.tumblr.com
 192.229.237.98	46.media.tumblr.com
 54.192.234.133	47.media.tumblr.com
-209.197.3.20	48.media.tumblr.com
+119.161.9.50	48.media.tumblr.com
 192.229.237.98	49.media.tumblr.com
 54.192.234.244	50.media.tumblr.com
 54.230.142.156	65.media.tumblr.com
 192.229.237.98	66.media.tumblr.com
-209.197.3.20	67.media.tumblr.com
-216.115.100.126	68.media.tumblr.com
+119.161.9.50	67.media.tumblr.com
+119.161.9.50	68.media.tumblr.com
 216.115.100.125	90.media.tumblr.com
 128.127.159.1	94.media.tumblr.com
 23.2.16.8	95.media.tumblr.com
