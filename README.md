@@ -45,6 +45,7 @@
   >    让域名解析立即生效
 
 ## 如何贡献
+
 `hosts`等文件是由程序自动生成的，如要改变其内容，请修改`hosts-source`分支下的[`hosts.yml`](https://github.com/racaljk/hosts/blob/hosts-source/hosts.yml)，具体说明见该分支下的[README](https://github.com/racaljk/hosts/tree/hosts-source)。
 
 ## 更多
