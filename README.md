@@ -1,0 +1,11 @@
+# 如何贡献
+
+## `hosts.yml`
+
+此文件使用YAML语法，详见[官网](http://yaml.org/)或[维基百科](https://zh.wikipedia.org/wiki/YAML)。
+
+由于格式十分简单，一般自行观察[`hosts.yml`](https://github.com/racaljk/hosts/blob/hosts-source/hosts.yml)和[`hosts`](https://github.com/racaljk/hosts/blob/master/hosts)即可理解，这里就不给出具体说明了。如果还是不明白，可以联系[@DDoSolitary](https://github.com/DDoSolitary)。
+
+## 其他文件
+
+其他文件用于由`hosts.yml`生成master分支中的hosts相关文件，不建议随意修改。如果需要生成特定格式的文件，可以开[Issue](https://github.com/racaljk/hosts/issues/new)反馈。
