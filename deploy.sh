@@ -3,8 +3,8 @@ set -e
 mkdir output
 node generate.js hosts.yml $(git show -s --format=%cd --date=short) output
 if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
-	openssl aes-256-cbc -K $encrypted_d73e5dbd4f94_key -iv $encrypted_d73e5dbd4f94_iv -in deploy-key.enc -out ~/.ssh/id_rsa -d
-	chmod 600 ~/.ssh/id_rsa
+	echo $DEPLOY_KEY | base64 -d > ~/.ssh/id_ed25519
+	chmod 600 ~/.ssh/id_ed25519
 	git clone git@github.com:$TRAVIS_REPO_SLUG master
 	cp output/* master/
 	cd master

@@ -4,4 +4,4 @@ sudo: false
 dist: trusty
 
 script:
-    - bash deploy.sh
+  - bash deploy.sh
