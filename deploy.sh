@@ -2,7 +2,7 @@
 set -e
 mkdir output
 node generate.js hosts.yml $(git show -s --format=%cd --date=short) output
-if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
+if [ "$PUSH_TO_MASTER" == "true" ]; then
 	echo $DEPLOY_KEY | base64 -d > ~/.ssh/id_ed25519
 	chmod 600 ~/.ssh/id_ed25519
 	git clone git@github.com:$TRAVIS_REPO_SLUG master
