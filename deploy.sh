@@ -13,7 +13,7 @@ if [ "$PUSH_TO_MASTER" == "true" ]; then
 		git config --global user.name $(git show -s --format="%aN" $TRAVIS_COMMIT)
 		git config --global user.email $(git show -s --format="%aE" $TRAVIS_COMMIT)
 		git config --global push.default simple
-		git show -s --format="%B" $TRAVIS_COMMIT | GIT_COMMITTER_DATE=$(git show -s --format="%cD" $TRAVIS_COMMIT) git commit -F -
+		{ printf "Update hosts from hosts-source.\n\n" & git log --format="%H %s" $TRAVIS_COMMIT_RANGE; } | GIT_COMMITTER_DATE=$(git show -s --format="%cD" $TRAVIS_COMMIT) git commit -F -
 		git push
 	fi
 fi
