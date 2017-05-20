@@ -2,7 +2,7 @@ module.exports = {
 	file_name: "hosts",
 	generate: (function () {
 		var generateEntry = function (ip, domain) {
-			return ip + '\t' + domain;
+			return `${ip}\t${domain}`;
 		};
 		var generateComment = function (data) {
 			return data.replace(/^(.)/gm, '# $1');
