@@ -10,9 +10,9 @@ if [ "$PUSH_TO_MASTER" == "true" ]; then
 	cd master
 	if [ -n "$(git status --porcelain)" ]; then
 		git add -A
-		git config --global user.name $(git show -s --format="%aN" $TRAVIS_COMMIT)
-		git config --global user.email $(git show -s --format="%aE" $TRAVIS_COMMIT)
-		git config --global push.default simple
+		git config user.name $(git show -s --format="%aN" $TRAVIS_COMMIT)
+		git config user.email $(git show -s --format="%aE" $TRAVIS_COMMIT)
+		git config push.default simple
 		{ printf "Update hosts from hosts-source.\n\n" & git log --format="%H %s" $TRAVIS_COMMIT_RANGE; } | GIT_COMMITTER_DATE=$(git show -s --format="%cD" $TRAVIS_COMMIT) git commit -F -
 		git push
 	fi
