@@ -3,7 +3,7 @@ set -e
 
 sudo add-apt-repository ppa:git-core/ppa -y
 sudo apt-get update -q
-sudo apt-get dist-upgrade -q -y
+sudo apt-get install git -q -y
 
 mkdir output
 node generate.js hosts.yml $(git show -s --format=%cd --date=short) output
