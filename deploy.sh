@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-sudo add-apt-repository ppa:git-core/ppa
+sudo add-apt-repository ppa:git-core/ppa -y
 sudo apt-get update -q
 sudo apt-get dist-upgrade -q -y
 
