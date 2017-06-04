@@ -1,5 +1,10 @@
 #!/bin/bash
 set -e
+
+sudo add-apt-repository ppa:git-core/ppa
+sudo apt-get update -q
+sudo apt-get dist-upgrade -q -y
+
 mkdir output
 node generate.js hosts.yml $(git show -s --format=%cd --date=short) output
 if [ "$PUSH_TO_MASTER" == "true" ]; then
