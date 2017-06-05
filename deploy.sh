@@ -18,7 +18,13 @@ if [ "$PUSH_TO_MASTER" == "true" ]; then
 		git config user.name $(git show -s --format="%aN" $TRAVIS_COMMIT)
 		git config user.email $(git show -s --format="%aE" $TRAVIS_COMMIT)
 		git config push.default simple
-		{ printf "Update hosts from hosts-source.\n\n" & git log --format="%H %s" $TRAVIS_COMMIT_RANGE; } | GIT_COMMITTER_DATE=$(git show -s --format="%cD" $TRAVIS_COMMIT) git commit -F -
+		if [ "$(git log --oneline $TRAVIS_COMMIT_RANGE | wc -l)" == "1" ]; then
+			git show -s --format="%B" > commit-msg.tmp
+		else
+			printf "Multiple commits from hosts-source.\n\n" > commit-msg.tmp
+			git log --format="%H %s" $TRAVIS_COMMIT_RANGE >> commit-msg.tmp
+		fi
+		GIT_COMMITTER_DATE=$(git show -s --format="%cD" $TRAVIS_COMMIT) git commit -F commit-msg.tmp
 		git push
 	fi
 fi
