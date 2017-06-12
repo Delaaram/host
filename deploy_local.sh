@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-if [ -f output ]; then
+if [ -e output ]; then
 	rm -rf output
 fi
 mkdir output
