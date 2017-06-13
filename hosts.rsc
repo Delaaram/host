@@ -38,7 +38,7 @@ add address=52.92.72.2 name=s3-sa-east-1.amazonaws.com
 add address=54.231.236.6 name=s3-us-west-1.amazonaws.com
 add address=54.231.168.160 name=s3-us-west-2.amazonaws.com
 add address=52.216.80.48 name=github-cloud.s3.amazonaws.com
-add address=54.231.48.40 name=github-com.s3.amazonaws.com
+add address=54.231.40.3 name=github-com.s3.amazonaws.com
 add address=219.76.4.4 name=github-production-release-asset-2e65be.s3.amazonaws.com
 # Amazon AWS End
 
