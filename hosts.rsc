@@ -3373,6 +3373,7 @@ add address=13.107.42.11 name=outlook.live.com
 # pinterest Start
 add address=151.101.64.84 name=pinterest.com
 add address=151.101.64.84 name=www.pinterest.com
+add address=151.101.64.84 name=www.pinterest.jp
 add address=151.101.64.84 name=about.pinterest.com
 add address=151.101.64.84 name=blog.pinterest.com
 add address=151.101.64.84 name=ads.pinterest.com
