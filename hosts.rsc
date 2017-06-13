@@ -3302,6 +3302,7 @@ add address=74.201.74.193 name=secure.logmein.com
 
 # Medium Start
 add address=104.16.120.127 name=medium.com
+add address=104.16.120.145 name=api.medium.com
 add address=104.16.120.145 name=cdn-static-1.medium.com
 add address=104.16.120.145 name=cdn-images-1.medium.com
 add address=103.245.222.101 name=cdn-images-2.medium.com
