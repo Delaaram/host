@@ -3701,10 +3701,13 @@ add address=192.229.173.207 name=www.w3schools.com
 # W3schools End
 
 # Wikipedia Start
+add address=198.35.26.96 name=www.wikipedia.org
+add address=198.35.26.96 name=login.wikimedia.org
 add address=198.35.26.96 name=wuu.wikipedia.org
 add address=198.35.26.96 name=zh-yue.wikipedia.org
 add address=198.35.26.96 name=zh.wikipedia.org
 add address=198.35.26.96 name=zh.m.wikipedia.org
+add address=198.35.26.112 name=upload.wikimedia.org
 # Wikipedia End
 
 # Xboxlive Start
