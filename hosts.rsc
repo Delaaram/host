@@ -3680,6 +3680,7 @@ add address=104.244.46.17 name=cdn.syndication.twimg.com
 
 # Vimeo Start
 add address=104.156.85.217 name=vimeo.com
+add address=104.156.85.217 name=api.vimeo.com
 add address=104.156.85.217 name=www.vimeo.com
 add address=104.156.85.217 name=player.vimeo.com
 add address=151.101.73.133 name=i.vimeocdn.com
