@@ -200,7 +200,7 @@ add address=108.160.173.193 name=photos-thumb.dropbox.com
 add address=108.160.173.193 name=photos-thumb.x.dropbox.com
 add address=108.160.173.193 name=status.dropbox.com
 add address=108.160.173.193 name=snapengage.dropbox.com
-add address=108.160.172.6 name=dl.dropboxusercontent.com
+add address=162.125.3.6 name=dl.dropboxusercontent.com
 add address=104.16.100.29 name=www.dropboxstatic.com
 add address=104.16.100.29 name=cfl.dropboxstatic.com
 add address=104.16.100.29 name=cf.dropboxstatic.com
