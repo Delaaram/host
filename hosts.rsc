@@ -3357,7 +3357,7 @@ add address=184.84.127.110 name=int.nyt.com
 
 # OneDrive Start
 add address=204.79.197.213 name=api.onedrive.com
-add address=2.17.58.51 name=api.onedrive.live.com
+add address=2.17.58.51 name=api.onedrive.com
 add address=204.79.197.217 name=onedrive.live.com
 add address=204.79.197.217 name=skyweb.skyprod.akadns.net
 add address=204.79.197.217 name=webedgegeo.skyprod.akadns.net
@@ -3461,6 +3461,8 @@ add address=72.21.91.96 name=style.sndcdn.com
 add address=72.21.91.96 name=va.sndcdn.com
 add address=54.230.233.111 name=cf-media.sndcdn.com
 add address=72.21.81.77 name=ec-media.sndcdn.com
+add address=52.84.200.202 name=eventgateway.soundcloud.com
+add address=52.84.200.202 name=telemetry.soundcloud.com
 # SoundCloud End
 
 # Startpage & Ixquick Start
@@ -3495,6 +3497,13 @@ add address=210.200.141.55 name=shop.thebodyshop.com.tw
 add address=184.31.34.218 name=assets.thebodyshop.com
 add address=151.101.0.230 name=apps.nexus.bazaarvoice.com
 # thebodyshop End
+
+# theinitium Start
+add address=104.28.31.251 name=stigma.theinitium.com
+add address=104.28.31.251 name=theinitium.com
+add address=104.28.31.251 name=api.theinitium.com
+add address=104.28.31.251 name=initiummall.com
+# theinitium End
 
 # Tor Start
 add address=154.35.132.70 name=torproject.org

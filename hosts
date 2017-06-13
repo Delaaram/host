@@ -3355,7 +3355,7 @@
 
 # OneDrive Start
 204.79.197.213	api.onedrive.com
-2.17.58.51	api.onedrive.live.com
+2.17.58.51	api.onedrive.com
 204.79.197.217	onedrive.live.com
 204.79.197.217	skyweb.skyprod.akadns.net
 204.79.197.217	webedgegeo.skyprod.akadns.net
@@ -3459,6 +3459,8 @@
 72.21.91.96	va.sndcdn.com
 54.230.233.111	cf-media.sndcdn.com
 72.21.81.77	ec-media.sndcdn.com
+52.84.200.202	eventgateway.soundcloud.com
+52.84.200.202	telemetry.soundcloud.com
 # SoundCloud End
 
 # Startpage & Ixquick Start
@@ -3493,6 +3495,13 @@
 184.31.34.218	assets.thebodyshop.com
 151.101.0.230	apps.nexus.bazaarvoice.com
 # thebodyshop End
+
+# theinitium Start
+104.28.31.251	stigma.theinitium.com
+104.28.31.251	theinitium.com
+104.28.31.251	api.theinitium.com
+104.28.31.251	initiummall.com
+# theinitium End
 
 # Tor Start
 154.35.132.70	torproject.org
