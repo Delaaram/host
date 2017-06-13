@@ -3356,6 +3356,8 @@ add address=184.84.127.110 name=int.nyt.com
 # nytimes for mobile End
 
 # OneDrive Start
+add address=204.79.197.213 name=api.onedrive.com
+add address=2.17.58.51 name=api.onedrive.live.com
 add address=204.79.197.217 name=onedrive.live.com
 add address=204.79.197.217 name=skyweb.skyprod.akadns.net
 add address=204.79.197.217 name=webedgegeo.skyprod.akadns.net
