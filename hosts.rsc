@@ -81,6 +81,7 @@ add address=104.20.82.194 name=apkpure.com
 add address=104.20.82.194 name=a.apkpure.com
 add address=104.20.82.194 name=download.apkpure.com
 add address=104.20.82.194 name=m.apkpure.com
+add address=104.20.82.194 name=i.apkpure.com
 add address=104.20.82.194 name=static.apkpure.com
 add address=104.20.82.194 name=translate.apkpure.com
 # Apkpure End
