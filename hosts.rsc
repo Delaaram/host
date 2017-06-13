@@ -3318,6 +3318,18 @@ add address=31.216.147.130 name=w.api.mega.co.nz
 # MEGA End
 
 # nytimes for mobile Start
+add address=52.203.102.52 name=messaging-sub.api.nytimes.com
+add address=50.19.127.24 name=nytab.nytimes.com
+add address=52.206.184.18 name=et.nytimes.com
+add address=54.64.135.49 name=sso.nytcn.me
+add address=50.16.209.123 name=tagx.nytimes.com
+add address=54.209.158.74 name=rec.api.nytimes.com
+add address=54.230.213.29 name=rec.api.nytimes.com
+add address=54.230.213.29 name=static.sxzhchina.com
+add address=122.152.169.5 name=l0.cn.nytimes.com
+add address=208.100.17.186 name=ic.tynt.com
+add address=23.219.132.99 name=vp.nyt.com
+add address=52.192.30.67 name=m.cn.nytstyle.com
 add address=170.149.159.135 name=nytimes.com
 add address=52.84.219.212 name=cn.nytimes.com
 add address=52.84.219.212 name=m.cn.nytimes.com
