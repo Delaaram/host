@@ -3689,6 +3689,12 @@ add address=103.245.222.249 name=vimeo-hp-videos.global.ssl.fastly.net
 add address=198.245.92.39 name=click.email.vimeo.com
 # Vimeo End
 
+# Voa Start
+add address=23.42.169.61 name=www.voachinese.com
+add address=23.42.169.61 name=gdb.voanews.com
+add address=23.42.169.61 name=av.voanews.com
+# Voa End
+
 # W3schools Start
 add address=192.229.173.207 name=w3schools.com
 add address=192.229.173.207 name=www.w3schools.com
