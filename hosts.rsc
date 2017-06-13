@@ -325,8 +325,13 @@ add address=23.34.45.177 name=s-static.ak.fbcdn.net
 # Facebook End
 
 # FlipBoard Start
-add address=54.225.64.251 name=beacon.flipboard.com
-add address=54.225.64.251 name=fbprod.flipboard.com
+add address=52.85.105.246 name=s.flipboard.com
+add address=54.230.37.226 name=cdn.flipboard.com
+add address=52.71.242.81 name=ue.flipboard.com
+add address=52.205.35.67 name=beacon.flipboard.com
+add address=52.204.29.124 name=flipboard.com
+add address=52.204.24.196 name=fbprod.flipboard.com
+add address=184.169.141.161 name=flipboard.helpshift.com
 # FlipBoard End
 
 # Github Start
@@ -2926,19 +2931,25 @@ add address=169.44.145.200 name=batch.upsight-api.com
 # Ingress End
 
 # Instagram Start
-add address=31.13.70.52 name=instagram.com
-add address=31.13.70.52 name=www.instagram.com
-add address=31.13.70.52 name=i.instagram.com
-add address=31.13.70.52 name=api.instagram.com
-add address=31.13.70.52 name=help.instagram.com
-add address=31.13.70.52 name=blog.instagram.com
-add address=31.13.70.52 name=logger.instagram.com
-add address=31.13.70.52 name=badges.instagram.com
-add address=31.13.70.52 name=maps.instagram.com
-add address=31.13.70.52 name=scontent.cdninstagram.com
-add address=31.13.70.52 name=scontent-a.cdninstagram.com
-add address=31.13.70.52 name=scontent-b.cdninstagram.com
+add address=157.240.7.52 name=instagram.com
+add address=157.240.7.52 name=www.instagram.com
+add address=157.240.7.52 name=i.instagram.com
+add address=157.240.7.52 name=api.instagram.com
+add address=157.240.7.52 name=help.instagram.com
+add address=157.240.7.52 name=blog.instagram.com
+add address=157.240.7.52 name=logger.instagram.com
+add address=157.240.7.52 name=badges.instagram.com
+add address=157.240.7.52 name=maps.instagram.com
+add address=157.240.7.52 name=scontent.cdninstagram.com
+add address=157.240.7.52 name=scontent-a.cdninstagram.com
+add address=157.240.7.52 name=scontent-b.cdninstagram.com
+add address=157.240.7.52 name=scontent-sea1-1.cdninstagram.com
+add address=157.240.7.52 name=scontent-hkg3-1.cdninstagram.com
+add address=157.240.7.52 name=scontent-fra3-1.cdninstagram.com
+add address=157.240.7.52 name=scontent-sit4-1.cdninstagram.com
 add address=31.13.69.245 name=graph.instagram.com
+add address=173.252.108.3 name=telegraph-ash.instagram.com
+add address=34.198.77.204 name=telegraph-tiproxy.instagram.com
 add address=157.240.11.52 name=platform.instagram.com
 add address=184.51.15.142 name=igcdn-photos-a-a.akamaihd.net
 add address=184.51.15.142 name=igcdn-photos-b-a.akamaihd.net
