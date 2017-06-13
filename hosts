@@ -2876,13 +2876,13 @@
 64.233.188.16	pop.googlemail.com
 64.233.188.16	imap.googlemail.com
 64.233.188.16	smtp.googlemail.com
-64.233.188.27	gmail-imap.l.google.com
-64.233.188.27	gmail-pop.l.google.com
-64.233.188.27	gmail-smtp.l.google.com
-64.233.188.27	imap.gmail.com
-64.233.188.27	smtp.gmail.com
-64.233.188.27	pop.gmail.com
-64.233.188.27	gmail-smtp-msa.l.google.com
+64.233.189.108	gmail-imap.l.google.com
+64.233.189.108	gmail-pop.l.google.com
+64.233.189.108	gmail-smtp.l.google.com
+64.233.189.108	imap.gmail.com
+64.233.189.108	smtp.gmail.com
+64.233.189.108	pop.gmail.com
+64.233.189.108	gmail-smtp-msa.l.google.com
 # Gmail SMTP/POP/IMAP End
 
 # Google:stun Server Start

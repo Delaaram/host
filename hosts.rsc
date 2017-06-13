@@ -2878,13 +2878,13 @@ add address=64.233.188.16 name=googlemail-pop.l.google.com
 add address=64.233.188.16 name=pop.googlemail.com
 add address=64.233.188.16 name=imap.googlemail.com
 add address=64.233.188.16 name=smtp.googlemail.com
-add address=64.233.188.27 name=gmail-imap.l.google.com
-add address=64.233.188.27 name=gmail-pop.l.google.com
-add address=64.233.188.27 name=gmail-smtp.l.google.com
-add address=64.233.188.27 name=imap.gmail.com
-add address=64.233.188.27 name=smtp.gmail.com
-add address=64.233.188.27 name=pop.gmail.com
-add address=64.233.188.27 name=gmail-smtp-msa.l.google.com
+add address=64.233.189.108 name=gmail-imap.l.google.com
+add address=64.233.189.108 name=gmail-pop.l.google.com
+add address=64.233.189.108 name=gmail-smtp.l.google.com
+add address=64.233.189.108 name=imap.gmail.com
+add address=64.233.189.108 name=smtp.gmail.com
+add address=64.233.189.108 name=pop.gmail.com
+add address=64.233.189.108 name=gmail-smtp-msa.l.google.com
 # Gmail SMTP/POP/IMAP End
 
 # Google:stun Server Start
