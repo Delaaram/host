@@ -147,10 +147,13 @@ add address=151.101.100.134 name=referrer.disqus.com
 add address=151.101.100.64 name=glitter.services.disqus.com
 add address=151.101.100.64 name=links.services.disqus.com
 add address=173.192.82.196 name=realtime.services.disqus.com
-add address=50.18.249.249 name=help.disqus.com
+add address=50.18.252.168 name=help.disqus.com
 add address=23.65.183.218 name=about.disqus.com
 add address=23.65.183.218 name=blog.disqus.com
 add address=23.65.183.218 name=publishers.disqus.com
+add address=104.16.80.166 name=c.disquscdn.com
+add address=151.101.24.249 name=a.disquscdn.com
+add address=151.101.24.134 name=nytchinese.disqus.com
 # Disqus End
 
 # Dropbox Start
