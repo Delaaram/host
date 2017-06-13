@@ -406,6 +406,11 @@ add address=216.58.200.33 name=chatenabled.mail.google.com
 add address=216.58.200.33 name=filetransferenabled.mail.google.com
 add address=216.58.200.33 name=googlemail.l.google.com
 add address=216.58.200.33 name=isolated.mail.google.com
+add address=216.58.200.33 name=gmail-smtp-in.l.google.com
+add address=216.58.200.33 name=alt1.gmail-smtp-in.l.google.com
+add address=216.58.200.33 name=alt2.gmail-smtp-in.l.google.com
+add address=216.58.200.33 name=alt3.gmail-smtp-in.l.google.com
+add address=216.58.200.33 name=alt4.gmail-smtp-in.l.google.com
 # Gmail web End
 
 # Google Start
