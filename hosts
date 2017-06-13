@@ -111,8 +111,13 @@
 # bandwagonhost.com End
 
 # Box.com Start
-74.112.184.70	app.box.com
-74.112.184.85	m.box.com
+107.152.25.197	app.box.com,api.box.com,account.box.com,upload.box.com,m.box.com
+107.152.25.198	app.box.com
+107.152.25.196	box.com
+107.152.25.200	public.boxcloud.com
+107.152.25.207	notes.services.box.com
+104.16.27.3	cdn01.boxcdn.net
+104.218.203.34	support.box.com
 # Box.com End
 
 # BundleStars Start

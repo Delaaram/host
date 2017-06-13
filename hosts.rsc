@@ -113,8 +113,13 @@ add address=104.20.6.63 name=bandwagonhost.com
 # bandwagonhost.com End
 
 # Box.com Start
-add address=74.112.184.70 name=app.box.com
-add address=74.112.184.85 name=m.box.com
+add address=107.152.25.197 name=app.box.com,api.box.com,account.box.com,upload.box.com,m.box.com
+add address=107.152.25.198 name=app.box.com
+add address=107.152.25.196 name=box.com
+add address=107.152.25.200 name=public.boxcloud.com
+add address=107.152.25.207 name=notes.services.box.com
+add address=104.16.27.3 name=cdn01.boxcdn.net
+add address=104.218.203.34 name=support.box.com
 # Box.com End
 
 # BundleStars Start
