@@ -289,7 +289,10 @@
 157.240.7.35	static.xx.fbcdn.net
 157.240.7.35	static.thefacebook.com
 157.240.7.35	attachment.fbsbx.com
-157.240.7.16	edge-mqtt.facebook.com
+31.13.95.33	snaptu-z.facebook.com
+31.13.95.33	snaptu-p1.facebook.com
+31.13.95.33	snaptu-p2.facebook.com
+31.13.95.5	edge-mqtt.facebook.com
 23.76.153.42	b.static.ak.facebook.com
 23.76.153.42	static.ak.facebook.com
 192.0.78.13	instantarticles.fb.com
@@ -299,9 +302,44 @@
 192.0.78.13	rightsmanager.fb.com
 192.0.78.13	techprep.fb.com
 192.0.78.13	work.fb.com
+31.13.93.15	scontent-lax3-1.xx.fbcdn.net
+31.13.93.15	scontent-lax3-2.xx.fbcdn.net
+31.13.93.15	scontent-lax3-3.xx.fbcdn.net
+31.13.93.15	scontent-lax3-4.xx.fbcdn.net
+31.13.93.15	scontent-hkg3-1.xx.fbcdn.net
+31.13.93.15	scontent-hkg3-2.xx.fbcdn.net
+31.13.93.15	scontent-hkg3-3.xx.fbcdn.net
+31.13.93.15	z-1-scontent.xx.fbcdn.net
+31.13.93.15	video-lax3-1.xx.fbcdn.net
+31.13.93.15	video-lax3-2.xx.fbcdn.net
+31.13.93.15	video-lax3-3.xx.fbcdn.net
+31.13.93.15	video-lax3-4.xx.fbcdn.net
+31.13.93.15	video-mrs1-1.xx.fbcdn.net
+31.13.93.15	video-mrs1-2.xx.fbcdn.net
+31.13.93.15	video-mrs1-3.xx.fbcdn.net
+31.13.93.15	video-mrs1-4.xx.fbcdn.net
+31.13.93.15	video-hkg3-1.xx.fbcdn.net
+31.13.93.15	video-sit4-1.xx.fbcdn.net
+31.13.93.15	video.xx.fbcdn.net
+31.13.93.15	external.xx.fbcdn.net
 192.0.66.2	messengerplatform.fb.com
-199.201.64.67	threatexchange.fb.com
-23.207.122.24	s-external.ak.fbcdn.net
+192.0.66.2	threatexchange.fb.com
+219.76.10.49	s-external.ak.fbcdn.net
+219.76.10.49	static.ak.fbcdn.net
+219.76.10.49	profile.ak.fbcdn.net
+219.76.10.49	vthumb.ak.fbcdn.net
+219.76.10.49	fbcdn-sphotos-b-a.akamaihd.net
+219.76.10.49	creative.ak.fbcdn.net
+219.76.10.49	external.ak.fbcdn.net
+219.76.10.49	photos-a.ak.fbcdn.net
+219.76.10.49	photos-b.ak.fbcdn.net
+219.76.10.49	photos-c.ak.fbcdn.net
+219.76.10.49	photos-d.ak.fbcdn.net
+219.76.10.49	photos-e.ak.fbcdn.net
+219.76.10.49	photos-f.ak.fbcdn.net
+219.76.10.49	photos-g.ak.fbcdn.net
+219.76.10.49	photos-h.ak.fbcdn.net
+219.76.10.49	b.static.ak.fbcdn.net
 157.240.11.18	video.xx.fbcdn.net
 184.28.188.10	static.ak.fbcdn.net
 184.28.188.10	profile.ak.fbcdn.net
@@ -320,6 +358,23 @@
 184.28.188.10	photos-h.ak.fbcdn.net
 184.28.188.10	b.static.ak.fbcdn.net
 23.34.45.177	s-static.ak.fbcdn.net
+184.28.188.10	a.dolimg.com
+184.28.188.10	a248.e.akamai.net
+184.28.188.10	static.ak.facebook.com
+184.28.188.10	b.static.ak.facebook.com
+184.28.188.10	fbcdn-video-a.akamaihd.net
+184.28.188.10	platform.ak.fbcdn.net
+184.28.188.10	fbstatic-a.akamaihd.net
+184.28.188.10	fbexternal-a.akamaihd.net
+184.28.188.10	lumiere-a.akamaihd.net
+184.28.188.10	fb-l-a-a.akamaihd.net
+184.28.188.10	fb-l-b-a.akamaihd.net
+184.28.188.10	fb-l-c-a.akamaihd.net
+184.28.188.10	fb-l-d-a.akamaihd.net
+184.28.188.10	fb-s-a-a.akamaihd.net
+184.28.188.10	fb-s-b-a.akamaihd.net
+184.28.188.10	fb-s-c-a.akamaihd.net
+184.28.188.10	fb-s-d-a.akamaihd.net
 # Facebook End
 
 # FlipBoard Start
@@ -3121,6 +3176,7 @@
 184.51.15.142	instagramstatic-a.akamaihd.net
 184.51.15.142	images.ak.instagram.com
 184.51.15.142	static.ak.instagram.com
+184.51.15.142	igcdn-photos-a-a.akamaihd.net
 # Instagram End
 
 # issuu Start
