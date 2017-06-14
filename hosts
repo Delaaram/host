@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-06-13
+# Last updated: 2017-06-14
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -302,26 +302,26 @@
 192.0.78.13	rightsmanager.fb.com
 192.0.78.13	techprep.fb.com
 192.0.78.13	work.fb.com
-31.13.93.15	scontent-lax3-1.xx.fbcdn.net
-31.13.93.15	scontent-lax3-2.xx.fbcdn.net
-31.13.93.15	scontent-lax3-3.xx.fbcdn.net
-31.13.93.15	scontent-lax3-4.xx.fbcdn.net
-31.13.93.15	scontent-hkg3-1.xx.fbcdn.net
-31.13.93.15	scontent-hkg3-2.xx.fbcdn.net
-31.13.93.15	scontent-hkg3-3.xx.fbcdn.net
-31.13.93.15	z-1-scontent.xx.fbcdn.net
-31.13.93.15	video-lax3-1.xx.fbcdn.net
-31.13.93.15	video-lax3-2.xx.fbcdn.net
-31.13.93.15	video-lax3-3.xx.fbcdn.net
-31.13.93.15	video-lax3-4.xx.fbcdn.net
-31.13.93.15	video-mrs1-1.xx.fbcdn.net
-31.13.93.15	video-mrs1-2.xx.fbcdn.net
-31.13.93.15	video-mrs1-3.xx.fbcdn.net
-31.13.93.15	video-mrs1-4.xx.fbcdn.net
-31.13.93.15	video-hkg3-1.xx.fbcdn.net
-31.13.93.15	video-sit4-1.xx.fbcdn.net
-31.13.93.15	video.xx.fbcdn.net
-31.13.93.15	external.xx.fbcdn.net
+31.13.91.15	scontent-lax3-1.xx.fbcdn.net
+31.13.91.15	scontent-lax3-2.xx.fbcdn.net
+31.13.91.15	scontent-lax3-3.xx.fbcdn.net
+31.13.91.15	scontent-lax3-4.xx.fbcdn.net
+31.13.91.15	scontent-hkg3-1.xx.fbcdn.net
+31.13.91.15	scontent-hkg3-2.xx.fbcdn.net
+31.13.91.15	scontent-hkg3-3.xx.fbcdn.net
+31.13.91.15	z-1-scontent.xx.fbcdn.net
+31.13.91.15	video-lax3-1.xx.fbcdn.net
+31.13.91.15	video-lax3-2.xx.fbcdn.net
+31.13.91.15	video-lax3-3.xx.fbcdn.net
+31.13.91.15	video-lax3-4.xx.fbcdn.net
+31.13.91.15	video-mrs1-1.xx.fbcdn.net
+31.13.91.15	video-mrs1-2.xx.fbcdn.net
+31.13.91.15	video-mrs1-3.xx.fbcdn.net
+31.13.91.15	video-mrs1-4.xx.fbcdn.net
+31.13.91.15	video-hkg3-1.xx.fbcdn.net
+31.13.91.15	video-sit4-1.xx.fbcdn.net
+31.13.91.15	video.xx.fbcdn.net
+31.13.91.15	external.xx.fbcdn.net
 192.0.66.2	messengerplatform.fb.com
 192.0.66.2	threatexchange.fb.com
 219.76.10.49	s-external.ak.fbcdn.net

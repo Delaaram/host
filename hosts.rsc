@@ -2,7 +2,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-06-13
+# Last updated: 2017-06-14
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -304,26 +304,26 @@ add address=192.0.78.13 name=nonprofits.fb.com
 add address=192.0.78.13 name=rightsmanager.fb.com
 add address=192.0.78.13 name=techprep.fb.com
 add address=192.0.78.13 name=work.fb.com
-add address=31.13.93.15 name=scontent-lax3-1.xx.fbcdn.net
-add address=31.13.93.15 name=scontent-lax3-2.xx.fbcdn.net
-add address=31.13.93.15 name=scontent-lax3-3.xx.fbcdn.net
-add address=31.13.93.15 name=scontent-lax3-4.xx.fbcdn.net
-add address=31.13.93.15 name=scontent-hkg3-1.xx.fbcdn.net
-add address=31.13.93.15 name=scontent-hkg3-2.xx.fbcdn.net
-add address=31.13.93.15 name=scontent-hkg3-3.xx.fbcdn.net
-add address=31.13.93.15 name=z-1-scontent.xx.fbcdn.net
-add address=31.13.93.15 name=video-lax3-1.xx.fbcdn.net
-add address=31.13.93.15 name=video-lax3-2.xx.fbcdn.net
-add address=31.13.93.15 name=video-lax3-3.xx.fbcdn.net
-add address=31.13.93.15 name=video-lax3-4.xx.fbcdn.net
-add address=31.13.93.15 name=video-mrs1-1.xx.fbcdn.net
-add address=31.13.93.15 name=video-mrs1-2.xx.fbcdn.net
-add address=31.13.93.15 name=video-mrs1-3.xx.fbcdn.net
-add address=31.13.93.15 name=video-mrs1-4.xx.fbcdn.net
-add address=31.13.93.15 name=video-hkg3-1.xx.fbcdn.net
-add address=31.13.93.15 name=video-sit4-1.xx.fbcdn.net
-add address=31.13.93.15 name=video.xx.fbcdn.net
-add address=31.13.93.15 name=external.xx.fbcdn.net
+add address=31.13.91.15 name=scontent-lax3-1.xx.fbcdn.net
+add address=31.13.91.15 name=scontent-lax3-2.xx.fbcdn.net
+add address=31.13.91.15 name=scontent-lax3-3.xx.fbcdn.net
+add address=31.13.91.15 name=scontent-lax3-4.xx.fbcdn.net
+add address=31.13.91.15 name=scontent-hkg3-1.xx.fbcdn.net
+add address=31.13.91.15 name=scontent-hkg3-2.xx.fbcdn.net
+add address=31.13.91.15 name=scontent-hkg3-3.xx.fbcdn.net
+add address=31.13.91.15 name=z-1-scontent.xx.fbcdn.net
+add address=31.13.91.15 name=video-lax3-1.xx.fbcdn.net
+add address=31.13.91.15 name=video-lax3-2.xx.fbcdn.net
+add address=31.13.91.15 name=video-lax3-3.xx.fbcdn.net
+add address=31.13.91.15 name=video-lax3-4.xx.fbcdn.net
+add address=31.13.91.15 name=video-mrs1-1.xx.fbcdn.net
+add address=31.13.91.15 name=video-mrs1-2.xx.fbcdn.net
+add address=31.13.91.15 name=video-mrs1-3.xx.fbcdn.net
+add address=31.13.91.15 name=video-mrs1-4.xx.fbcdn.net
+add address=31.13.91.15 name=video-hkg3-1.xx.fbcdn.net
+add address=31.13.91.15 name=video-sit4-1.xx.fbcdn.net
+add address=31.13.91.15 name=video.xx.fbcdn.net
+add address=31.13.91.15 name=external.xx.fbcdn.net
 add address=192.0.66.2 name=messengerplatform.fb.com
 add address=192.0.66.2 name=threatexchange.fb.com
 add address=219.76.10.49 name=s-external.ak.fbcdn.net
