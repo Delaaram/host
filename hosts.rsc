@@ -118,7 +118,6 @@ add address=107.152.25.197 name=api.box.com
 add address=107.152.25.197 name=account.box.com
 add address=107.152.25.197 name=upload.box.com
 add address=107.152.25.197 name=m.box.com
-add address=107.152.25.198 name=app.box.com
 add address=107.152.25.196 name=box.com
 add address=107.152.25.200 name=public.boxcloud.com
 add address=107.152.25.207 name=notes.services.box.com
