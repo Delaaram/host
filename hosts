@@ -111,7 +111,11 @@
 # bandwagonhost.com End
 
 # Box.com Start
-107.152.25.197	app.box.com,api.box.com,account.box.com,upload.box.com,m.box.com
+107.152.25.197	app.box.com
+107.152.25.197	api.box.com
+107.152.25.197	account.box.com
+107.152.25.197	upload.box.com
+107.152.25.197	m.box.com
 107.152.25.198	app.box.com
 107.152.25.196	box.com
 107.152.25.200	public.boxcloud.com
