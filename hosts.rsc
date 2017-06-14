@@ -3836,4 +3836,8 @@ add address=61.91.161.217 name=youtube-ui.l.google.com
 add address=61.91.161.217 name=www.youtube-nocookie.com
 # Youtube End
 
+# Resilio Sync Start
+add address=54.230.143.112 name=config.getsync.com
+# Resilio Sync End
+
 # Modified Hosts End
