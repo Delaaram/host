@@ -418,6 +418,8 @@ add address=216.58.200.33 name=alt4.gmail-smtp-in.l.google.com
 
 # Google Start
 add address=216.58.200.33 name=com.google
+add address=216.58.200.33 name=domains.google
+add address=216.58.200.33 name=environment.google
 add address=216.58.200.33 name=google.com
 add address=216.58.200.33 name=google.com.af
 add address=216.58.200.33 name=google.com.ag

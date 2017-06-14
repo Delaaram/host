@@ -416,6 +416,8 @@
 
 # Google Start
 216.58.200.33	com.google
+216.58.200.33	domains.google
+216.58.200.33	environment.google
 216.58.200.33	google.com
 216.58.200.33	google.com.af
 216.58.200.33	google.com.ag
