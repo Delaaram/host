@@ -3436,6 +3436,11 @@ add address=104.20.39.14 name=psiphon.ca
 add address=104.20.39.14 name=www.psiphon.ca
 # Psiphon End
 
+# Resilio Sync Start
+add address=54.230.143.112 name=config.getsync.com
+add address=54.230.143.112 name=update.getsync.com
+# Resilio Sync End
+
 # slideshare Start
 add address=103.20.93.138 name=www.slideshare.net
 add address=103.20.93.138 name=slideshare.net
@@ -3835,10 +3840,5 @@ add address=61.91.161.217 name=youtubei.googleapis.com
 add address=61.91.161.217 name=youtube-ui.l.google.com
 add address=61.91.161.217 name=www.youtube-nocookie.com
 # Youtube End
-
-# Resilio Sync Start
-add address=54.230.143.112 name=config.getsync.com
-add address=54.230.143.112 name=update.getsync.com
-# Resilio Sync End
 
 # Modified Hosts End
