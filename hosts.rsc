@@ -2,7 +2,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-06-15
+# Last updated: 2017-06-18
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3840,5 +3840,12 @@ add address=61.91.161.217 name=youtubei.googleapis.com
 add address=61.91.161.217 name=youtube-ui.l.google.com
 add address=61.91.161.217 name=www.youtube-nocookie.com
 # Youtube End
+
+# Resilio Sync Start
+add address=52.85.69.35 name=config.getsync.com
+add address=52.85.69.35 name=update.getsync.com
+add address=52.85.69.166 name=www.getsync.com
+add address=52.85.69.73 name=getsync.com
+# Resilio Sync End
 
 # Modified Hosts End
