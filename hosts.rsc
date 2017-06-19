@@ -394,6 +394,7 @@ add address=184.169.141.161 name=flipboard.helpshift.com
 
 # Github Start
 add address=192.30.253.118 name=gist.github.com
+add address=151.101.72.249 name=global-ssl.fastly.net
 # Github End
 
 # Gmail web Start
