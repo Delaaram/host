@@ -2,7 +2,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-06-21
+# Last updated: 2017-06-22
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3378,17 +3378,33 @@ add address=13.107.42.11 name=outlook.live.com
 
 # Opera mini Start
 add address=107.167.115.253 name=mini5.opera-mini.net
+add address=107.167.115.253 name=gameloft.com.minil.beta.opera-mini.net
+add address=107.167.115.253 name=opx.opera.com.mini5-9.opera-mini.net
+add address=107.167.115.253 name=m.tiket.com.mini5-5.opera-mini.net
+add address=107.167.115.253 name=sharp-cust.opera-mini.net
+add address=107.167.115.253 name=opx.opera.com.mini5-7.opera-mini.net
+add address=107.167.115.253 name=wapshop.gameloft.com.minil.beta.opera-mini.net
+add address=107.167.115.253 name=wapdemon.beta.opera-mini.net
+add address=107.167.115.253 name=proxytubo.appspot.com.beta.opera-mini.net
+add address=107.167.115.253 name=skype.com.mini5-1.opera-mini.net
+add address=107.167.115.253 name=com.indosat.com.mini5-1.opera-mini.net
+add address=107.167.115.253 name=nokia-s40-12-cust.opera-mini.net
+add address=107.167.115.253 name=fly-cust.opera-mini.net
 add address=107.167.115.241 name=mini5-1.opera-mini.net
+add address=107.167.115.241 name=labs1-turbo-1.beta.opera-mini.net
 add address=107.167.115.242 name=mini5-2.opera-mini.net
 add address=107.167.115.242 name=global-4-lvs-colossus-2.opera-mini.net
 add address=107.167.115.238 name=mini5-6.opera-mini.net
 add address=107.167.115.239 name=mini5-7.opera-mini.net
 add address=107.167.115.240 name=mini5-8.opera-mini.net
+add address=107.167.115.240 name=global-4-lvs-colossus-8.opera-mini.net
 add address=111.11.6.118 name=mini5cn.opera-mini.net
 add address=111.11.6.118 name=mini5cn-1.opera-mini.net
 add address=185.26.180.102 name=n14-03-01.opera-mini.net
 add address=82.145.210.217 name=cust-demo-test-7.opera-mini.net
 add address=107.167.115.253 name=helio-cust.opera-mini.net
+add address=107.167.115.253 name=10.9.labs1-turbo.beta.opera-mini.net
+add address=107.167.115.253 name=opx.opera.com.turbo-5.beta.opera-mini.net
 add address=107.167.97.236 name=s35-13.opera-mini.net
 add address=37.228.107.241 name=global-turbo2-1.opera-mini.net
 add address=37.228.111.170 name=a13-08-01.opera-mini.net
@@ -3396,7 +3412,32 @@ add address=107.167.108.184 name=a25-06-11.opera-mini.net
 add address=185.26.181.241 name=global-4-lvs-odra-1.opera-mini.net
 add address=82.145.209.242 name=global-4-lvs-turing-2.opera-mini.net
 add address=37.228.107.239 name=cdn0.opera-mini.net
+add address=37.228.107.239 name=sitecheck2.opera-mini.net
 add address=82.145.209.251 name=global-turbo-2-lvs-turing.opera-mini.net
+add address=141.0.12.125 name=n24-05-01.opera-mini.net
+add address=82.145.211.251 name=global-4-lvs-turing-8.opera-mini.net
+add address=37.228.107.239 name=sitecheck2.opera-mini.net
+add address=82.145.223.56 name=n19-04-08.opera-mini.net
+add address=107.167.99.181 name=s22-01-08.opera-mini.net
+add address=107.167.103.4 name=s23-03-02.opera-mini.net
+add address=82.145.220.251 name=n08-07-07.opera-mini.net
+add address=141.0.12.126 name=n24-05-02.opera-mini.net
+add address=185.26.181.242 name=global-4-lvs-odra-2.opera-mini.net
+add address=185.26.182.62 name=opera10beta-turbo.opera-mini.net
+add address=82.145.208.44 name=z01-09-01.opera-mini.net
+add address=107.167.96.210 name=s20-15.opera-mini.net
+add address=185.26.181.253 name=global-4-lvs-odra.opera-mini.net
+add address=82.145.211.56 name=z38-09.opera-mini.net
+add address=82.145.211.9 name=z24-10.opera-mini.net
+add address=37.228.107.239 name=af.opera-mini.net
+add address=37.228.109.141 name=a06-05-08-v04.opera-mini.net
+add address=107.167.110.211 name=sitecheck.opera-mini.net
+add address=107.167.113.209 name=global-max-1.opera-mini.net
+add address=82.145.221.193 name=n11-07-07.opera-mini.net
+add address=37.228.107.253 name=global-4-lvs-hopper.opera-mini.net
+add address=111.11.6.120 name=global-turbo2.opera-mini.net
+add address=82.145.210.168 name=z21-09.opera-mini.net
+add address=82.145.211.1 name=z24-02.opera-mini.net
 # Opera mini End
 
 # pinterest Start
