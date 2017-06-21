@@ -2,7 +2,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-06-19
+# Last updated: 2017-06-21
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3372,7 +3372,7 @@ add address=2.17.58.51 name=api.onedrive.com
 add address=204.79.197.217 name=onedrive.live.com
 add address=204.79.197.217 name=skyweb.skyprod.akadns.net
 add address=204.79.197.217 name=webedgegeo.skyprod.akadns.net
-add address=134.170.107.72 name=skyapi.onedrive.live.com
+add address=104.44.88.28 name=skyapi.onedrive.live.com
 add address=13.107.42.11 name=outlook.live.com
 # OneDrive End
 
