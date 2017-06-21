@@ -3376,6 +3376,29 @@ add address=104.44.88.28 name=skyapi.onedrive.live.com
 add address=13.107.42.11 name=outlook.live.com
 # OneDrive End
 
+# Opera mini Start
+add address=107.167.115.253 name=mini5.opera-mini.net
+add address=107.167.115.241 name=mini5-1.opera-mini.net
+add address=107.167.115.242 name=mini5-2.opera-mini.net
+add address=107.167.115.242 name=global-4-lvs-colossus-2.opera-mini.net
+add address=107.167.115.238 name=mini5-6.opera-mini.net
+add address=107.167.115.239 name=mini5-7.opera-mini.net
+add address=107.167.115.240 name=mini5-8.opera-mini.net
+add address=111.11.6.118 name=mini5cn.opera-mini.net
+add address=111.11.6.118 name=mini5cn-1.opera-mini.net
+add address=185.26.180.102 name=n14-03-01.opera-mini.net
+add address=82.145.210.217 name=cust-demo-test-7.opera-mini.net
+add address=107.167.115.253 name=helio-cust.opera-mini.net
+add address=107.167.97.236 name=s35-13.opera-mini.net
+add address=37.228.107.241 name=global-turbo2-1.opera-mini.net
+add address=37.228.111.170 name=a13-08-01.opera-mini.net
+add address=107.167.108.184 name=a25-06-11.opera-mini.net
+add address=185.26.181.241 name=global-4-lvs-odra-1.opera-mini.net
+add address=82.145.209.242 name=global-4-lvs-turing-2.opera-mini.net
+add address=37.228.107.239 name=cdn0.opera-mini.net
+add address=82.145.209.251 name=global-turbo-2-lvs-turing.opera-mini.net
+# Opera mini End
+
 # pinterest Start
 add address=151.101.64.84 name=pinterest.com
 add address=151.101.64.84 name=www.pinterest.com
