@@ -2968,6 +2968,10 @@ add address=216.239.38.21 name=madewithcode.com
 add address=216.239.38.21 name=www.madewithcode.com
 # Google:Made the code for girls Start End
 
+# Google:Fit Start
+add address=216.58.200.33 name=lax28s01-in-f10.1e100.net
+# Google:Fit End
+
 # HumbleBundle Start
 add address=5.153.35.171 name=humble.pubnub.com
 add address=198.41.186.33 name=humblebundle.com
