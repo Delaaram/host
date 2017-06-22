@@ -2969,7 +2969,16 @@ add address=216.239.38.21 name=www.madewithcode.com
 # Google:Made the code for girls Start End
 
 # Google:Fit Start
+add address=216.58.200.33 name=lax17s02-in-f10.1e100.net
+add address=216.58.200.33 name=lax17s03-in-f10.1e100.net
+add address=216.58.200.33 name=lax17s04-in-f10.1e100.net
+add address=216.58.200.33 name=lax17s05-in-f10.1e100.net
+add address=216.58.200.33 name=lax17s14-in-f10.1e100.net
+add address=216.58.200.33 name=lax17s15-in-f10.1e100.net
+add address=216.58.200.33 name=lax17s34-in-f10.1e100.net
 add address=216.58.200.33 name=lax28s01-in-f10.1e100.net
+add address=216.58.200.33 name=tsa01s07-in-f10.1e100.net
+add address=216.58.200.33 name=tsa01s08-in-f10.1e100.net
 # Google:Fit End
 
 # HumbleBundle Start
