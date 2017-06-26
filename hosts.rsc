@@ -2,7 +2,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-06-22
+# Last updated: 2017-06-26
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -160,55 +160,55 @@ add address=151.101.24.134 name=nytchinese.disqus.com
 # Disqus End
 
 # Dropbox Start
-add address=108.160.173.239 name=dropbox.com
-add address=108.160.173.239 name=www.dropbox.com
-add address=108.160.173.193 name=db.tt
-add address=108.160.173.193 name=www.v.dropbox.com
-add address=108.160.173.193 name=www.dropbox-dns.com
-add address=108.160.173.193 name=api.dropbox.com
-add address=108.160.173.193 name=api-d.dropbox.com
-add address=108.160.173.193 name=api.dropboxapi.com
-add address=108.160.173.193 name=api.v.dropbox.com
-add address=108.160.173.193 name=api-notify.dropbox.com
-add address=108.160.173.193 name=api-content.dropbox.com
-add address=108.160.173.193 name=api-content-photos.dropbox.com
-add address=108.160.173.193 name=blogs.dropbox.com
-add address=108.160.173.193 name=block.dropbox.com
-add address=108.160.173.193 name=block.v.dropbox.com
-add address=108.160.173.193 name=bolt.dropbox.com
-add address=108.160.173.193 name=client.dropbox.com
-add address=108.160.173.193 name=client.v.dropbox.com
-add address=108.160.173.193 name=client-lb.dropbox.com
-add address=108.160.173.193 name=client-cf.dropbox.com
-add address=108.160.173.193 name=client-web.dropbox.com
-add address=108.160.173.193 name=d.dropbox.com
-add address=108.160.173.193 name=d.v.dropbox.com
-add address=108.160.173.193 name=dl.dropbox.com
-add address=108.160.173.193 name=dl-doc.dropbox.com
-add address=108.160.173.193 name=dl-web.dropbox.com
-add address=108.160.173.193 name=dl-debug.dropbox.com
-add address=108.160.173.193 name=forums.dropbox.com
-add address=108.160.173.193 name=linux.dropbox.com
-add address=108.160.173.193 name=m.dropbox.com
-add address=108.160.173.193 name=marketing.dropbox.com
-add address=108.160.173.193 name=notify.dropbox.com
-add address=108.160.173.193 name=photos.dropbox.com
-add address=108.160.173.193 name=photos-1.dropbox.com
-add address=108.160.173.193 name=photos-2.dropbox.com
-add address=108.160.173.193 name=photos-3.dropbox.com
-add address=108.160.173.193 name=photos-4.dropbox.com
-add address=108.160.173.193 name=photos-5.dropbox.com
-add address=108.160.173.193 name=photos-6.dropbox.com
-add address=108.160.173.193 name=photos-thumb.dropbox.com
-add address=108.160.173.193 name=photos-thumb.x.dropbox.com
-add address=108.160.173.193 name=status.dropbox.com
-add address=108.160.173.193 name=snapengage.dropbox.com
-add address=162.125.3.6 name=dl.dropboxusercontent.com
-add address=104.16.100.29 name=www.dropboxstatic.com
+add address=162.125.248.1 name=dropbox.com
+add address=162.125.248.1 name=www.dropbox.com
+add address=162.125.32.9 name=db.tt
+add address=162.125.32.14 name=www.v.dropbox.com
+add address=162.125.7.1 name=www.dropbox-dns.com
+add address=162.125.82.7 name=api.dropbox.com
+add address=162.125.82.7 name=api.dropboxapi.com
+add address=162.125.32.5 name=api-d.dropbox.com
+add address=162.125.32.13 name=api.v.dropbox.com
+add address=162.125.32.13 name=api-notify.dropbox.com
+add address=162.125.1.8 name=api-content.dropbox.com
+add address=162.125.2.5 name=api-content-photos.dropbox.com
+add address=52.85.12.34 name=blogs.dropbox.com
+add address=162.125.32.2 name=block.dropbox.com
+add address=162.125.34.133 name=block.v.dropbox.com
+add address=162.125.18.133 name=bolt.dropbox.com
+add address=162.125.2.3 name=client.dropbox.com
+add address=162.125.2.3 name=client-cf.dropbox.com
+add address=162.125.32.12 name=client.v.dropbox.com
+add address=162.125.80.3 name=client-lb.dropbox.com
+add address=162.125.80.3 name=client-web.dropbox.com
+add address=162.125.32.5 name=d.dropbox.com
+add address=162.125.32.5 name=d.v.dropbox.com
+add address=162.125.2.6 name=dl.dropbox.com
+add address=162.125.2.6 name=dl-web.dropbox.com
+add address=162.125.80.6 name=dl-doc.dropbox.com
+add address=34.197.94.108 name=dl-debug.dropbox.com
+add address=52.85.12.7 name=forums.dropbox.com
+add address=54.192.136.115 name=linux.dropbox.com
+add address=162.125.32.9 name=m.dropbox.com
+add address=52.85.12.227 name=marketing.dropbox.com
+add address=162.125.17.131 name=notify.dropbox.com
+add address=162.125.32.15 name=photos.dropbox.com
+add address=162.125.80.5 name=photos-1.dropbox.com
+add address=162.125.80.5 name=photos-2.dropbox.com
+add address=162.125.80.5 name=photos-3.dropbox.com
+add address=162.125.80.5 name=photos-4.dropbox.com
+add address=162.125.80.5 name=photos-5.dropbox.com
+add address=162.125.80.5 name=photos-6.dropbox.com
+add address=162.125.80.5 name=photos-thumb.dropbox.com
+add address=162.125.18.129 name=photos-thumb.x.dropbox.com
+add address=52.85.12.41 name=status.dropbox.com
+add address=52.85.12.72 name=snapengage.dropbox.com
+add address=162.125.2.6 name=dl.dropboxusercontent.com
+add address=162.125.32.10 name=www.dropboxstatic.com
 add address=104.16.100.29 name=cfl.dropboxstatic.com
-add address=104.16.100.29 name=cf.dropboxstatic.com
-add address=104.16.100.29 name=dbxlocal.dropboxstatic.com
-add address=104.16.100.29 name=log.getdropbox.com
+add address=54.230.125.126 name=cf.dropboxstatic.com
+add address=162.125.32.10 name=dbxlocal.dropboxstatic.com
+add address=162.25.32.6 name=log.getdropbox.com
 # Dropbox End
 
 # DuckDuckGo Start
