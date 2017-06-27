@@ -2,7 +2,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-06-26
+# Last updated: 2017-06-27
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -208,7 +208,7 @@ add address=162.125.32.10 name=www.dropboxstatic.com
 add address=104.16.100.29 name=cfl.dropboxstatic.com
 add address=54.230.125.126 name=cf.dropboxstatic.com
 add address=162.125.32.10 name=dbxlocal.dropboxstatic.com
-add address=162.25.32.6 name=log.getdropbox.com
+add address=162.125.32.6 name=log.getdropbox.com
 # Dropbox End
 
 # DuckDuckGo Start
