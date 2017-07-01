@@ -2,7 +2,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-06-27
+# Last updated: 2017-07-01
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -711,6 +711,7 @@ add address=216.58.200.33 name=resources.blogblog.com
 add address=216.58.200.33 name=www.textcube.com
 add address=216.58.200.33 name=www.blogspot.com
 add address=216.58.200.33 name=blogspot.com
+add address=216.58.200.33 name=bp.blogspot.com
 add address=216.58.200.33 name=1.bp.blogspot.com
 add address=216.58.200.33 name=2.bp.blogspot.com
 add address=216.58.200.33 name=3.bp.blogspot.com
@@ -755,6 +756,16 @@ add address=216.58.200.33 name=chrome-devtools-frontend.appspot.com
 add address=216.58.200.33 name=chrometophone.appspot.com
 add address=216.58.200.33 name=google-developers.appspot.com
 add address=216.58.200.33 name=download-chromium.appspot.com
+add address=216.58.200.33 name=apps.googleusercontent.com
+add address=216.58.200.33 name=appspot.com.storage.googleapis.com
+add address=216.58.200.33 name=storage-download.googleapis.com
+add address=216.58.200.33 name=content-storage-download.googleapis.com
+add address=216.58.200.33 name=content-storage-upload.googleapis.com
+add address=216.58.200.33 name=content-storage.googleapis.com
+add address=216.58.200.33 name=googlesyndication.com
+add address=216.58.200.33 name=googleweblight.com
+add address=216.58.200.33 name=static.panoramio.com.storage.googleapis.com
+add address=216.58.200.33 name=unfiltered.news
 add address=216.58.200.33 name=lfe-alpo-gm.appspot.com
 add address=216.58.200.33 name=m-dot-betaspike.appspot.com
 add address=216.58.200.33 name=mission-author-dot-betaspike.appspot.com
@@ -1282,6 +1293,7 @@ add address=216.58.200.33 name=ct.googleapis.com
 add address=216.58.200.33 name=securetoken.googleapis.com
 add address=216.58.200.33 name=firebasestorage.googleapis.com
 add address=216.58.200.33 name=www-tactile-opensocial.googleusercontent.com
+add address=216.58.200.33 name=safenup.googleusercontent.com
 add address=216.58.200.33 name=www--google--com.safenup.googleusercontent.com
 add address=216.58.200.33 name=www--google--com--hk.safenup.googleusercontent.com
 add address=216.58.200.33 name=doc-00-24-apps-viewer.googleusercontent.com
@@ -2460,6 +2472,7 @@ add address=216.58.200.33 name=webcache.googleusercontent.com
 add address=216.58.200.33 name=ytimg.googleusercontent.com
 add address=216.58.200.33 name=www-opensocial.googleusercontent.com
 add address=216.58.200.33 name=www-gm-opensocial.googleusercontent.com
+add address=216.58.200.33 name=sandbox.googleusercontent.com
 add address=216.58.200.33 name=www-opensocial-sandbox.googleusercontent.com
 add address=216.58.200.33 name=www-fc-opensocial.googleusercontent.com
 add address=216.58.200.33 name=www-focus-opensocial.googleusercontent.com
