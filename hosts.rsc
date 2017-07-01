@@ -766,6 +766,7 @@ add address=216.58.200.33 name=googlesyndication.com
 add address=216.58.200.33 name=googleweblight.com
 add address=216.58.200.33 name=static.panoramio.com.storage.googleapis.com
 add address=216.58.200.33 name=unfiltered.news
+add address=216.58.200.33 name=jigsaw.google.com
 add address=216.58.200.33 name=lfe-alpo-gm.appspot.com
 add address=216.58.200.33 name=m-dot-betaspike.appspot.com
 add address=216.58.200.33 name=mission-author-dot-betaspike.appspot.com
