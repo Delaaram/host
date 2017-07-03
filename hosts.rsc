@@ -3533,10 +3533,13 @@ add address=198.232.125.81 name=cdn.rawgit.com
 # RawGit End
 
 # Resilio Sync Start
+add address=13.32.231.218 name=download-cdn.getsync.com
 add address=52.85.69.35 name=config.getsync.com
 add address=52.85.69.35 name=update.getsync.com
 add address=52.85.69.166 name=www.getsync.com
 add address=52.85.69.73 name=getsync.com
+add address=13.32.231.244 name=www.resilio.com
+add address=54.82.227.39 name=new-bench.resilio.com
 # Resilio Sync End
 
 # slideshare Start
