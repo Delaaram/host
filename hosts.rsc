@@ -1274,6 +1274,7 @@ add address=203.208.51.55 name=fonts.gstatic.com
 
 # Googleapis Start
 add address=216.58.200.33 name=chart.apis.google.com
+add address=216.58.200.33 name=explorer.apis.google.com
 add address=216.58.200.33 name=googleapis.com
 add address=216.58.200.33 name=www.googleapis.com
 add address=216.58.200.33 name=ajax.googleapis.com
