@@ -3526,6 +3526,10 @@
 104.20.39.14	www.psiphon.ca
 # Psiphon End
 
+# RawGit Start
+198.232.125.81	cdn.rawgit.com
+# RawGit End
+
 # Resilio Sync Start
 52.85.69.35	config.getsync.com
 52.85.69.35	update.getsync.com

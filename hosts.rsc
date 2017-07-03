@@ -3528,6 +3528,10 @@ add address=104.20.39.14 name=psiphon.ca
 add address=104.20.39.14 name=www.psiphon.ca
 # Psiphon End
 
+# RawGit Start
+add address=198.232.125.81 name=cdn.rawgit.com
+# RawGit End
+
 # Resilio Sync Start
 add address=52.85.69.35 name=config.getsync.com
 add address=52.85.69.35 name=update.getsync.com
