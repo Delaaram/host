@@ -2964,9 +2964,9 @@ add address=64.233.188.188 name=mtalk.google.com
 add address=64.233.188.188 name=gcm.googleapis.com
 add address=64.233.188.188 name=gcm.l.google.com
 add address=64.233.188.188 name=gcm-xmpp.googleapis.com
-add address=64.233.188.188 name=gcm-http.googleapis.com
 add address=64.233.188.188 name=gcm-preprod.l.google.com
 add address=64.233.188.188 name=gcm-preprod.googleapis.com
+add address=216.58.200.33 name=gcm-http.googleapis.com
 # Google:gcm End
 
 # Goole:duo Start

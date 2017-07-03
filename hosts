@@ -2962,9 +2962,9 @@
 64.233.188.188	gcm.googleapis.com
 64.233.188.188	gcm.l.google.com
 64.233.188.188	gcm-xmpp.googleapis.com
-64.233.188.188	gcm-http.googleapis.com
 64.233.188.188	gcm-preprod.l.google.com
 64.233.188.188	gcm-preprod.googleapis.com
+216.58.200.33	gcm-http.googleapis.com
 # Google:gcm End
 
 # Goole:duo Start
