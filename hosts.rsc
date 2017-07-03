@@ -2996,11 +2996,11 @@ add address=216.58.200.33 name=tsa01s08-in-f10.1e100.net
 # Google:Fit End
 
 # HumbleBundle Start
-add address=5.153.35.171 name=humble.pubnub.com
-add address=198.41.186.33 name=humblebundle.com
+add address=54.249.82.177 name=humble.pubnub.com
+add address=104.20.35.236 name=humblebundle.com
 add address=203.69.81.33 name=humblebundle-a.akamaihd.net
 add address=52.36.140.12 name=pubnub.com
-add address=74.125.34.32 name=www.humblebundle.com
+add address=216.58.200.243 name=www.humblebundle.com
 # HumbleBundle End
 
 # imgur Start
