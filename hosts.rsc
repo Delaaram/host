@@ -2,7 +2,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-07-01
+# Last updated: 2017-07-03
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3809,6 +3809,10 @@ add address=23.42.169.61 name=av.voanews.com
 add address=192.229.173.207 name=w3schools.com
 add address=192.229.173.207 name=www.w3schools.com
 # W3schools End
+
+# Wikinews Start
+add address=198.35.26.96 name=zh.m.wikinews.org
+# Wikinews End
 
 # Wikipedia Start
 add address=198.35.26.96 name=www.wikipedia.org

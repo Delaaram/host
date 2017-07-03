@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-07-01
+# Last updated: 2017-07-03
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3807,6 +3807,10 @@
 192.229.173.207	w3schools.com
 192.229.173.207	www.w3schools.com
 # W3schools End
+
+# Wikinews Start
+198.35.26.96	zh.m.wikinews.org
+# Wikinews End
 
 # Wikipedia Start
 198.35.26.96	www.wikipedia.org
