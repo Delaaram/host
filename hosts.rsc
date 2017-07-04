@@ -3543,6 +3543,28 @@ add address=151.101.192.84 name=s-media-cache-ak0.pinimg.com
 add address=52.203.245.216 name=developers.pinterest.com
 # pinterest End
 
+# Periscope Start
+add address=52.193.42.51 name=pscp.tv
+add address=52.193.42.51 name=www.pscp.tv
+add address=52.11.126.129 name=channels.pscp.tv
+add address=52.32.74.235 name=proxsee.pscp.tv
+add address=13.32.194.196 name=assets.pscp.tv
+add address=13.32.194.196 name=prod-profile.pscp.tv
+add address=13.32.194.196 name=prod-thumbnail.pscp.tv
+add address=151.101.2.93 name=prod-video-ap-northeast-1.pscp.tv
+add address=151.101.2.93 name=prod-video-ap-southeast-1.pscp.tv
+add address=151.101.2.93 name=prod-video-ap-southeast-2.pscp.tv
+add address=151.101.2.93 name=prod-video-eu-central-1.pscp.tv
+add address=151.101.2.93 name=prod-video-eu-west-1.pscp.tv
+add address=151.101.2.93 name=prod-video-us-east-1.pscp.tv
+add address=151.101.2.93 name=prod-video-us-west-1.pscp.tv
+add address=151.101.2.93 name=prod-video-us-west-2.pscp.tv
+add address=151.101.2.93 name=prod-video-sa-east-1.pscp.tv
+add address=52.28.70.96 name=prod-chatman-ancillary-eu-central-1.pscp.tv
+add address=52.5.25.47 name=prod-chatman-ancillary-us-east-1.pscp.tv
+add address=52.26.41.23 name=prod-chatman-ancillary-us-west-2.pscp.tv
+# Periscope End
+
 # Psiphon Start
 add address=54.239.168.4 name=psiphon3.com
 add address=54.239.168.4 name=www.psiphon3.com
