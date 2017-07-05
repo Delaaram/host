@@ -3646,6 +3646,14 @@ add address=149.154.167.99 name=core.telegram.org
 add address=149.154.167.99 name=macos.telegram.org
 add address=149.154.167.120 name=web.telegram.org
 add address=149.154.167.57 name=venus.web.telegram.org
+add address=149.154.175.16 name=pluto.web.telegram.org
+add address=149.154.175.16 name=pluto-1.web.telegram.org
+add address=149.154.167.24 name=venus.web.telegram.org
+add address=149.154.167.24 name=venus-1.web.telegram.org
+add address=149.154.175.115 name=aurora.web.telegram.org
+add address=149.154.175.115 name=aurora-1.web.telegram.org
+add address=149.154.167.124 name=vesta.web.telegram.org
+add address=149.154.167.124 name=vesta-1.web.telegram.org
 add address=149.154.171.22 name=flora.web.telegram.org
 add address=149.154.171.22 name=flora-1.web.telegram.org
 # telegram End
