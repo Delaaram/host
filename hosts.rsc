@@ -2,7 +2,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-07-05
+# Last updated: 2017-07-07
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3685,17 +3685,19 @@ add address=154.35.132.70 name=cloud.torproject.org
 add address=154.35.132.70 name=consensus-health.torproject.org
 add address=154.35.132.70 name=deb.torproject.org
 add address=154.35.132.70 name=dist.torproject.org
+add address=154.35.132.70 name=extra.torproject.org
 add address=154.35.132.70 name=gettor.torproject.org
 add address=154.35.132.70 name=help.torproject.org
 add address=154.35.132.70 name=onion.torproject.org
 add address=154.35.132.70 name=ooni.torproject.org
 add address=154.35.132.70 name=research.torproject.org
 add address=154.35.132.70 name=spec.torproject.org
+add address=154.35.132.70 name=stem.torproject.org
 add address=154.35.132.70 name=tb-manual.torproject.org
 add address=154.35.132.70 name=wiki.torproject.org
 add address=82.195.75.101 name=archive.torproject.org
 add address=82.195.75.101 name=media.torproject.org
-add address=138.201.14.196 name=blog.torproject.org
+add address=23.185.0.2 name=blog.torproject.org
 add address=78.47.38.229 name=bridges.torproject.org
 add address=138.201.14.212 name=check.torproject.org
 add address=138.201.14.216 name=collector.torproject.org
@@ -3712,7 +3714,6 @@ add address=78.47.38.227 name=onionoo.torproject.org
 add address=52.70.141.81 name=explorer.ooni.torproject.org
 add address=138.201.14.203 name=people.torproject.org
 add address=138.201.212.230 name=rt.torproject.org
-add address=78.47.38.231 name=stem.torproject.org
 add address=78.47.38.231 name=storm.torproject.org
 add address=138.201.14.206 name=svn.torproject.org
 add address=138.201.212.227 name=trac.torproject.org
