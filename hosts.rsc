@@ -4329,6 +4329,12 @@ add address=203.210.7.142 name=r3---sn-jna-i3bs.googlevideo.com
 add address=203.210.7.143 name=r4---sn-jna-i3bs.googlevideo.com
 add address=203.210.6.140 name=r1---sn-jna-i3b6.googlevideo.com
 add address=203.210.6.141 name=r2---sn-jna-i3b6.googlevideo.com
+add address=173.194.22.215 name=r1---sn-npoe7n76.googlevideo.com
+add address=173.194.22.216 name=r2---sn-npoe7n76.googlevideo.com
+add address=173.194.22.217 name=r3---sn-npoe7n76.googlevideo.com
+add address=173.194.22.218 name=r4---sn-npoe7n76.googlevideo.com
+add address=173.194.22.219 name=r5---sn-npoe7n76.googlevideo.com
+add address=173.194.22.220 name=r6---sn-npoe7n76.googlevideo.com
 # Google Video End
 
 # Modified Hosts End
