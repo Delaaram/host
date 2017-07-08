@@ -4347,6 +4347,12 @@ add address=173.194.22.201 name=r3---sn-npoe7n7z.googlevideo.com
 add address=173.194.22.202 name=r4---sn-npoe7n7z.googlevideo.com
 add address=173.194.22.203 name=r5---sn-npoe7n7z.googlevideo.com
 add address=173.194.22.204 name=r6---sn-npoe7n7z.googlevideo.com
+add address=209.85.229.151 name=r1---sn-npoe7n7s.googlevideo.com
+add address=209.85.229.152 name=r2---sn-npoe7n7s.googlevideo.com
+add address=209.85.229.153 name=r3---sn-npoe7n7s.googlevideo.com
+add address=209.85.229.154 name=r4---sn-npoe7n7s.googlevideo.com
+add address=209.85.229.155 name=r5---sn-npoe7n7s.googlevideo.com
+add address=209.85.229.156 name=r6---sn-npoe7n7s.googlevideo.com
 # Google Video End
 
 # Modified Hosts End
