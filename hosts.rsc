@@ -4323,6 +4323,10 @@ add address=74.125.10.89 name=r3---sn-i3belnez.googlevideo.com
 add address=74.125.10.90 name=r4---sn-i3belnez.googlevideo.com
 add address=74.125.10.91 name=r5---sn-i3belnez.googlevideo.com
 add address=74.125.10.92 name=r6---sn-i3belnez.googlevideo.com
+add address=203.210.7.140 name=r1---sn-jna-i3bs.googlevideo.com
+add address=203.210.7.141 name=r2---sn-jna-i3bs.googlevideo.com
+add address=203.210.7.142 name=r3---sn-jna-i3bs.googlevideo.com
+add address=203.210.7.143 name=r4---sn-jna-i3bs.googlevideo.com
 # Google Video End
 
 # Modified Hosts End
