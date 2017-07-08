@@ -3986,6 +3986,26 @@ add address=194.9.24.80 name=r5---sn-5uh5o-f5f6.googlevideo.com
 add address=194.9.24.81 name=r6---sn-5uh5o-f5f6.googlevideo.com
 add address=194.9.24.82 name=r7---sn-5uh5o-f5f6.googlevideo.com
 add address=194.9.24.83 name=r8---sn-5uh5o-f5f6.googlevideo.com
+add address=74.125.164.134 name=r1---sn-i3b7knez.googlevideo.com
+add address=74.125.164.135 name=r2---sn-i3b7knez.googlevideo.com
+add address=74.125.164.136 name=r3---sn-i3b7knez.googlevideo.com
+add address=74.125.164.137 name=r4---sn-i3b7knez.googlevideo.com
+add address=74.125.164.138 name=r5---sn-i3b7knez.googlevideo.com
+add address=74.125.164.139 name=r6---sn-i3b7knez.googlevideo.com
+add address=74.125.164.140 name=r7---sn-i3b7knez.googlevideo.com
+add address=74.125.164.141 name=r8---sn-i3b7knez.googlevideo.com
+add address=74.125.164.142 name=r9---sn-i3b7knez.googlevideo.com
+add address=74.125.164.143 name=r10---sn-i3b7knez.googlevideo.com
+add address=74.125.164.144 name=r11---sn-i3b7knez.googlevideo.com
+add address=74.125.164.145 name=r12---sn-i3b7knez.googlevideo.com
+add address=74.125.164.146 name=r13---sn-i3b7knez.googlevideo.com
+add address=74.125.164.147 name=r14---sn-i3b7knez.googlevideo.com
+add address=74.125.164.148 name=r15---sn-i3b7knez.googlevideo.com
+add address=74.125.164.149 name=r16---sn-i3b7knez.googlevideo.com
+add address=74.125.164.150 name=r17---sn-i3b7knez.googlevideo.com
+add address=74.125.164.151 name=r18---sn-i3b7knez.googlevideo.com
+add address=74.125.164.152 name=r19---sn-i3b7knez.googlevideo.com
+add address=74.125.164.153 name=r20---sn-i3b7knez.googlevideo.com
 # Google Video End
 
 # Modified Hosts End
