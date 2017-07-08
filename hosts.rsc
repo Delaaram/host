@@ -2,7 +2,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-07-07
+# Last updated: 2017-07-08
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3976,5 +3976,16 @@ add address=172.217.26.46 name=youtubei.googleapis.com
 add address=172.217.26.46 name=youtube-ui.l.google.com
 add address=172.217.26.46 name=www.youtube-nocookie.com
 # Youtube End
+
+# Google Video Start
+add address=194.9.24.76 name=r1---sn-5uh5o-f5f6.googlevideo.com
+add address=194.9.24.77 name=r2---sn-5uh5o-f5f6.googlevideo.com
+add address=194.9.24.78 name=r3---sn-5uh5o-f5f6.googlevideo.com
+add address=194.9.24.79 name=r4---sn-5uh5o-f5f6.googlevideo.com
+add address=194.9.24.80 name=r5---sn-5uh5o-f5f6.googlevideo.com
+add address=194.9.24.81 name=r6---sn-5uh5o-f5f6.googlevideo.com
+add address=194.9.24.82 name=r7---sn-5uh5o-f5f6.googlevideo.com
+add address=194.9.24.83 name=r8---sn-5uh5o-f5f6.googlevideo.com
+# Google Video End
 
 # Modified Hosts End
