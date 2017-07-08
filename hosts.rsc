@@ -4193,6 +4193,26 @@ add address=74.125.10.105 name=r3---sn-i3b7knl6.googlevideo.com
 add address=74.125.10.106 name=r4---sn-i3b7knl6.googlevideo.com
 add address=74.125.10.107 name=r5---sn-i3b7knl6.googlevideo.com
 add address=74.125.10.108 name=r6---sn-i3b7knl6.googlevideo.com
+add address=74.125.171.70 name=r1---sn-i3b7knl7.googlevideo.com
+add address=74.125.171.71 name=r2---sn-i3b7knl7.googlevideo.com
+add address=74.125.171.72 name=r3---sn-i3b7knl7.googlevideo.com
+add address=74.125.171.73 name=r4---sn-i3b7knl7.googlevideo.com
+add address=74.125.171.74 name=r5---sn-i3b7knl7.googlevideo.com
+add address=74.125.171.75 name=r6---sn-i3b7knl7.googlevideo.com
+add address=74.125.171.76 name=r7---sn-i3b7knl7.googlevideo.com
+add address=74.125.171.77 name=r8---sn-i3b7knl7.googlevideo.com
+add address=74.125.171.78 name=r9---sn-i3b7knl7.googlevideo.com
+add address=74.125.171.79 name=r10---sn-i3b7knl7.googlevideo.com
+add address=74.125.171.80 name=r11---sn-i3b7knl7.googlevideo.com
+add address=74.125.171.81 name=r12---sn-i3b7knl7.googlevideo.com
+add address=74.125.171.82 name=r13---sn-i3b7knl7.googlevideo.com
+add address=74.125.171.83 name=r14---sn-i3b7knl7.googlevideo.com
+add address=74.125.171.84 name=r15---sn-i3b7knl7.googlevideo.com
+add address=74.125.171.85 name=r16---sn-i3b7knl7.googlevideo.com
+add address=74.125.171.86 name=r17---sn-i3b7knl7.googlevideo.com
+add address=74.125.171.87 name=r18---sn-i3b7knl7.googlevideo.com
+add address=74.125.171.88 name=r19---sn-i3b7knl7.googlevideo.com
+add address=74.125.171.89 name=r20---sn-i3b7knl7.googlevideo.com
 # Google Video End
 
 # Modified Hosts End
