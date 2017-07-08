@@ -4275,6 +4275,42 @@ add address=74.125.106.9 name=r3---sn-i3b7kn7k.googlevideo.com
 add address=74.125.106.10 name=r4---sn-i3b7kn7k.googlevideo.com
 add address=74.125.106.11 name=r5---sn-i3b7kn7k.googlevideo.com
 add address=74.125.106.12 name=r6---sn-i3b7kn7k.googlevideo.com
+add address=173.194.59.119 name=r1---sn-i3beln7r.googlevideo.com
+add address=173.194.59.120 name=r2---sn-i3beln7r.googlevideo.com
+add address=173.194.59.121 name=r3---sn-i3beln7r.googlevideo.com
+add address=173.194.59.122 name=r4---sn-i3beln7r.googlevideo.com
+add address=173.194.59.123 name=r5---sn-i3beln7r.googlevideo.com
+add address=173.194.59.124 name=r6---sn-i3beln7r.googlevideo.com
+add address=173.194.59.87 name=r1---sn-i3beln7d.googlevideo.com
+add address=173.194.59.88 name=r2---sn-i3beln7d.googlevideo.com
+add address=173.194.59.89 name=r3---sn-i3beln7d.googlevideo.com
+add address=173.194.59.90 name=r4---sn-i3beln7d.googlevideo.com
+add address=173.194.59.91 name=r5---sn-i3beln7d.googlevideo.com
+add address=173.194.59.92 name=r6---sn-i3beln7d.googlevideo.com
+add address=173.194.49.183 name=r1---sn-i3beln7s.googlevideo.com
+add address=173.194.49.184 name=r2---sn-i3beln7s.googlevideo.com
+add address=173.194.49.185 name=r3---sn-i3beln7s.googlevideo.com
+add address=173.194.49.186 name=r4---sn-i3beln7s.googlevideo.com
+add address=173.194.49.187 name=r5---sn-i3beln7s.googlevideo.com
+add address=173.194.49.188 name=r6---sn-i3beln7s.googlevideo.com
+add address=173.194.59.71 name=r1---sn-i3beln76.googlevideo.com
+add address=173.194.59.72 name=r2---sn-i3beln76.googlevideo.com
+add address=173.194.59.73 name=r3---sn-i3beln76.googlevideo.com
+add address=173.194.59.74 name=r4---sn-i3beln76.googlevideo.com
+add address=173.194.59.75 name=r5---sn-i3beln76.googlevideo.com
+add address=173.194.59.76 name=r6---sn-i3beln76.googlevideo.com
+add address=173.194.59.103 name=r1---sn-i3beln7k.googlevideo.com
+add address=173.194.59.104 name=r2---sn-i3beln7k.googlevideo.com
+add address=173.194.59.105 name=r3---sn-i3beln7k.googlevideo.com
+add address=173.194.59.106 name=r4---sn-i3beln7k.googlevideo.com
+add address=173.194.59.107 name=r5---sn-i3beln7k.googlevideo.com
+add address=173.194.59.108 name=r6---sn-i3beln7k.googlevideo.com
+add address=173.194.59.55 name=r1---sn-i3beln7z.googlevideo.com
+add address=173.194.59.56 name=r2---sn-i3beln7z.googlevideo.com
+add address=173.194.59.57 name=r3---sn-i3beln7z.googlevideo.com
+add address=173.194.59.58 name=r4---sn-i3beln7z.googlevideo.com
+add address=173.194.59.59 name=r5---sn-i3beln7z.googlevideo.com
+add address=173.194.59.60 name=r6---sn-i3beln7z.googlevideo.com
 # Google Video End
 
 # Modified Hosts End
