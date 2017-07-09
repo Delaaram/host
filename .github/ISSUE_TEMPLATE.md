@@ -1,4 +1,4 @@
-您好，感谢您开 Issue 来反馈信息，在提交前，**为了节省您及维护者的时间**，请确保您已经检查了以下内容!
+您好，感谢您开 Issue 来反馈信息，**为了节省您及维护者的时间**，在提交前，请确保您已经检查了以下内容!
 - 如有关 "Google无法连接" / "GitHub访问慢" 等问题 请参阅[常见问题解答](https://github.com/racaljk/hosts/wiki/The-hosts-FAQ)
 - 已经阅读了 [Wiki 页面](https://github.com/racaljk/hosts/wiki)
 - 已经搜索过之前的相关 [Issues](https://github.com/racaljk/hosts/search?type=Issues)
