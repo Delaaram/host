@@ -2,7 +2,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-07-09
+# Last updated: 2017-07-10
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -39,7 +39,7 @@ add address=54.231.236.6 name=s3-us-west-1.amazonaws.com
 add address=54.231.168.160 name=s3-us-west-2.amazonaws.com
 add address=52.216.80.48 name=github-cloud.s3.amazonaws.com
 add address=54.231.40.3 name=github-com.s3.amazonaws.com
-add address=219.76.4.4 name=github-production-release-asset-2e65be.s3.amazonaws.com
+add address=54.231.49.104 name=github-production-release-asset-2e65be.s3.amazonaws.com
 # Amazon AWS End
 
 # Android Start
