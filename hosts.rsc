@@ -4442,6 +4442,12 @@ add address=74.125.99.246 name=r17---sn-4g57knz7.googlevideo.com
 add address=74.125.99.247 name=r18---sn-4g57knz7.googlevideo.com
 add address=74.125.99.248 name=r19---sn-4g57knz7.googlevideo.com
 add address=74.125.99.249 name=r20---sn-4g57knz7.googlevideo.com
+add address=74.125.173.55 name=r1---sn-4g5ednll.googlevideo.com
+add address=74.125.173.56 name=r2---sn-4g5ednll.googlevideo.com
+add address=74.125.173.57 name=r3---sn-4g5ednll.googlevideo.com
+add address=74.125.173.58 name=r4---sn-4g5ednll.googlevideo.com
+add address=74.125.173.59 name=r5---sn-4g5ednll.googlevideo.com
+add address=74.125.173.60 name=r6---sn-4g5ednll.googlevideo.com
 # Google Video End
 
 # Modified Hosts End
