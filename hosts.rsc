@@ -40,6 +40,7 @@ add address=54.231.168.160 name=s3-us-west-2.amazonaws.com
 add address=52.216.80.48 name=github-cloud.s3.amazonaws.com
 add address=54.231.40.3 name=github-com.s3.amazonaws.com
 add address=54.231.49.104 name=github-production-release-asset-2e65be.s3.amazonaws.com
+add address=52.216.228.168 name=github-production-user-asset-6210df.s3.amazonaws.com
 # Amazon AWS End
 
 # Android Start
