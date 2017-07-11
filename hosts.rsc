@@ -2,7 +2,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-07-10
+# Last updated: 2017-07-11
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -4489,6 +4489,14 @@ add address=173.194.8.54 name=r17---sn-a5m7lnel.googlevideo.com
 add address=173.194.8.55 name=r18---sn-a5m7lnel.googlevideo.com
 add address=173.194.8.56 name=r19---sn-a5m7lnel.googlevideo.com
 add address=173.194.8.57 name=r20---sn-a5m7lnel.googlevideo.com
+add address=4.35.153.204 name=r1---sn-a8au-a5me.googlevideo.com
+add address=4.35.153.205 name=r2---sn-a8au-a5me.googlevideo.com
+add address=4.35.153.206 name=r3---sn-a8au-a5me.googlevideo.com
+add address=4.35.153.207 name=r4---sn-a8au-a5me.googlevideo.com
+add address=4.35.153.208 name=r5---sn-a8au-a5me.googlevideo.com
+add address=4.35.153.209 name=r6---sn-a8au-a5me.googlevideo.com
+add address=4.35.153.210 name=r7---sn-a8au-a5me.googlevideo.com
+add address=4.35.153.211 name=r8---sn-a8au-a5me.googlevideo.com
 # Google Video End
 
 # Modified Hosts End
