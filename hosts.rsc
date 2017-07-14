@@ -2,7 +2,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-07-13
+# Last updated: 2017-07-14
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3920,7 +3920,7 @@ add address=119.161.14.17 name=api.flickr.com
 add address=119.161.14.17 name=up.flickr.com
 add address=76.13.28.196 name=downloadr.flickr.com
 add address=203.84.197.27 name=finance.yahoo.com
-add address=203.84.197.27 name=hk.finance.yahoo.com0
+add address=203.84.197.27 name=hk.finance.yahoo.com
 add address=203.84.197.27 name=answers.yahoo.com
 add address=203.84.197.27 name=hk.answers.yahoo.com
 add address=203.84.197.27 name=tw.answers.yahoo.com
