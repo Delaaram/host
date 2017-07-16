@@ -1234,10 +1234,6 @@ add address=216.239.34.21 name=polymer-project.org
 add address=216.58.199.243 name=www.polymer-project.org
 # Google End
 
-# Google 1e100 Start
-add address=74.125.135.188 name=pl-in-f188.1e100.net
-# Google 1e100 End
-
 # gstatic Start
 add address=173.194.223.202 name=geo0.ggpht.com
 add address=173.194.223.202 name=geo1.ggpht.com
