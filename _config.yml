@@ -3,23 +3,23 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Google Hosts
 subtitle:
-description:
-author: John Doe
+description: 🗽最新可用的google hosts文件。镜像：https://coding.net/u/scaffrey/p/hosts/git
+author: Google Hosts
 language:
-timezone:
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: http://racaljk.github.io
+root: /test/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
 source_dir: source
-public_dir: public
+public_dir: test
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
