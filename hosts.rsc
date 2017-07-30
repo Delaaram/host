@@ -4162,11 +4162,12 @@ add address=37.0.89.57 name=support.ixquick.com
 # telegram Start
 # As an alternative, you can use:
 # https://telegram.ustclug.org
-add address=149.154.167.99 name=telegram.org
-add address=149.154.167.99 name=desktop.telegram.org
-add address=149.154.167.99 name=core.telegram.org
-add address=149.154.167.99 name=macos.telegram.org
-add address=149.154.167.120 name=web.telegram.org
+add address=149.154.166.142 name=telegram.org
+add address=149.154.166.142 name=desktop.telegram.org
+add address=149.154.166.142 name=core.telegram.org
+add address=149.154.166.142 name=macos.telegram.org
+add address=149.154.166.142 name=web.telegram.org
+add address=149.154.167.216 name=api.telegram.org
 add address=149.154.167.57 name=venus.web.telegram.org
 add address=149.154.175.16 name=pluto.web.telegram.org
 add address=149.154.175.16 name=pluto-1.web.telegram.org
