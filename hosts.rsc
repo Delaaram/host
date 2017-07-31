@@ -4168,7 +4168,6 @@ add address=149.154.166.142 name=core.telegram.org
 add address=149.154.166.142 name=macos.telegram.org
 add address=149.154.167.216 name=api.telegram.org
 add address=149.154.166.142 name=web.telegram.org
-add address=149.154.167.216 name=api.telegram.org
 add address=149.154.167.57 name=venus.web.telegram.org
 add address=149.154.175.16 name=pluto.web.telegram.org
 add address=149.154.175.16 name=pluto-1.web.telegram.org
