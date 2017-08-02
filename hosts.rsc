@@ -2,7 +2,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-08-01
+# Last updated: 2017-08-02
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -4166,9 +4166,8 @@ add address=149.154.166.142 name=telegram.org
 add address=149.154.166.142 name=desktop.telegram.org
 add address=149.154.166.142 name=core.telegram.org
 add address=149.154.166.142 name=macos.telegram.org
-add address=149.154.167.216 name=api.telegram.org
 add address=149.154.166.142 name=web.telegram.org
-add address=149.154.167.57 name=venus.web.telegram.org
+add address=149.154.167.216 name=api.telegram.org
 add address=149.154.175.16 name=pluto.web.telegram.org
 add address=149.154.175.16 name=pluto-1.web.telegram.org
 add address=149.154.167.24 name=venus.web.telegram.org
