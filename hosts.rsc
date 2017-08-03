@@ -4500,7 +4500,7 @@ add address=216.58.195.238 name=www.youtube-nocookie.com
 # Youtube End
 
 # Google Video Start
-add address=216.58.195.238 name=redirector.googlevideo.com
+add address=203.208.41.40 name=redirector.googlevideo.com
 add address=194.9.24.76 name=r1---sn-5uh5o-f5f6.googlevideo.com
 add address=194.9.24.77 name=r2---sn-5uh5o-f5f6.googlevideo.com
 add address=194.9.24.78 name=r3---sn-5uh5o-f5f6.googlevideo.com
