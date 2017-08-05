@@ -2,7 +2,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-08-03
+# Last updated: 2017-08-05
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -30,12 +30,12 @@ add address=54.240.254.230 name=us-west-2.console.aws.amazon.com
 add address=54.239.38.102 name=s3-console-us-standard.console.aws.amazon.com
 add address=54.231.49.3 name=s3.amazonaws.com
 add address=52.219.0.4 name=s3-ap-northeast-1.amazonaws.com
-add address=54.231.242.170 name=s3-ap-southeast-1.amazonaws.com
+add address=52.219.40.49 name=s3-ap-southeast-1.amazonaws.com
 add address=54.231.251.21 name=s3-ap-southeast-2.amazonaws.com
-add address=54.231.193.37 name=s3-eu-central-1.amazonaws.com
+add address=52.219.72.8 name=s3-eu-central-1.amazonaws.com
 add address=52.218.16.140 name=s3-eu-west-1.amazonaws.com
 add address=52.92.72.2 name=s3-sa-east-1.amazonaws.com
-add address=54.231.236.6 name=s3-us-west-1.amazonaws.com
+add address=54.231.235.37 name=s3-us-west-1.amazonaws.com
 add address=54.231.168.160 name=s3-us-west-2.amazonaws.com
 add address=52.216.80.48 name=github-cloud.s3.amazonaws.com
 add address=54.231.40.3 name=github-com.s3.amazonaws.com
