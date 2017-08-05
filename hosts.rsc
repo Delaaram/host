@@ -3539,6 +3539,10 @@ add address=4.35.153.210 name=r7---sn-a8au-a5me.gvt1.com
 add address=4.35.153.211 name=r8---sn-a8au-a5me.gvt1.com
 # Google Play End
 
+# Heroku Start
+add address=52.1.240.62 name=id.heroku.com
+# Heroku End
+
 # HumbleBundle Start
 add address=54.249.82.177 name=humble.pubnub.com
 add address=104.20.35.236 name=humblebundle.com
